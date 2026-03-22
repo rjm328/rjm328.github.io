@@ -81,3 +81,24 @@ body {
   font-style: italic;
   margin-top: 0.25rem;
 }
+
+/* CV page section dividers */
+.cv-section {
+  margin-top: 2.5rem;
+  padding-top: 1.5rem;
+  border-top: 1px solid #EDE9E4;
+}
+
+.cv-entry {
+  margin-bottom: 1.25rem;
+}
+
+.cv-entry-title {
+  font-weight: 600;
+  font-family: "DM Sans", system-ui, sans-serif;
+}
+
+.cv-entry-meta {
+  color: #6B5E55;
+  font-size: 0.9rem;
+}
