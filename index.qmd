@@ -1,0 +1,24 @@
+---
+title: "Dr. Researcher Name"
+subtitle: "Title and Affiliation"
+image: images/profile.jpg
+image-shape: rectangle
+about:
+  template: trestles
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:placeholder@university.edu
+    - icon: mortarboard-fill
+      text: Google Scholar
+      href: https://scholar.google.com/
+    - icon: person-badge-fill
+      text: ORCID
+      href: https://orcid.org/
+---
+
+Brief bio paragraph will go here. This is placeholder content that will be replaced with the author's real bio (2-3 sentences) covering academic background and affiliation.
+
+## Research Interests
+
+Research interests summary will go here. This placeholder will be replaced with 3-5 sentences describing the author's research interests in plain language accessible to both academic and non-academic readers.
