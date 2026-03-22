@@ -3,14 +3,14 @@ gsd_state_version: 1.0
 milestone: v1.0
 milestone_name: milestone
 status: planning
-stopped_at: Completed 01-foundation-01-PLAN.md
-last_updated: "2026-03-22T14:39:59.571Z"
+stopped_at: Completed 01-foundation-02-PLAN.md
+last_updated: "2026-03-22T15:36:43.837Z"
 last_activity: 2026-03-22 — Roadmap created, all 16 v1 requirements mapped to 4 phases
 progress:
   total_phases: 4
-  completed_phases: 0
+  completed_phases: 1
   total_plans: 2
-  completed_plans: 1
+  completed_plans: 2
   percent: 0
 ---
 
@@ -51,6 +51,7 @@ Progress: [░░░░░░░░░░] 0%
 
 *Updated after each plan completion*
 | Phase 01-foundation P01 | 3 | 2 tasks | 10 files |
+| Phase 01-foundation P02 | 35 | 3 tasks | 5 files |
 
 ## Accumulated Context
 
@@ -65,6 +66,9 @@ Recent decisions affecting current work:
 - Stack: Quarto 1.9.36 + GitHub Pages recommended by research (confirmed HIGH confidence)
 - [Phase 01-foundation]: cosmo base theme + custom.scss overlay: Bootstrap foundation with warm neutrals palette and Source Serif 4/DM Sans typography override
 - [Phase 01-foundation]: mailto: contact link, no form — keeps GitHub Pages hosting viable without Netlify
+- [Phase 01-foundation]: Deployed to https://rjm328.github.io/ as user site (rjm328/rjm328.github.io) — no subdirectory in URL
+- [Phase 01-foundation]: Custom domain deferred — INFR-02 partially satisfied; full satisfaction requires out-of-band domain acquisition
+- [Phase 01-foundation]: Working Papers section requested by user — deferred to future Publications phase
 
 ### Pending Todos
 
@@ -77,6 +81,6 @@ None yet.
 
 ## Session Continuity
 
-Last session: 2026-03-22T14:39:59.568Z
-Stopped at: Completed 01-foundation-01-PLAN.md
+Last session: 2026-03-22T15:36:43.833Z
+Stopped at: Completed 01-foundation-02-PLAN.md
 Resume file: None

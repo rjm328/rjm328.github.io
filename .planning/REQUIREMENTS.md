@@ -9,8 +9,8 @@ Requirements for initial release. Each maps to roadmap phases.
 
 ### Identity
 
-- [ ] **IDEN-01**: User can view about/bio page with professional photo, affiliation, and background
-- [ ] **IDEN-02**: Homepage displays 3-5 sentence research interests summary
+- [x] **IDEN-01**: User can view about/bio page with professional photo, affiliation, and background
+- [x] **IDEN-02**: Homepage displays 3-5 sentence research interests summary
 - [ ] **IDEN-03**: Each publication has a plain-language summary accessible to non-academic visitors
 
 ### Publications
@@ -39,7 +39,7 @@ Requirements for initial release. Each maps to roadmap phases.
 ### Infrastructure
 
 - [x] **INFR-01**: Static site built with Quarto, deployed to GitHub Pages
-- [ ] **INFR-02**: Custom domain configured with HTTPS
+- [x] **INFR-02**: Custom domain configured with HTTPS
 
 ## v2 Requirements
 
@@ -70,8 +70,8 @@ Which phases cover which requirements. Updated during roadmap creation.
 
 | Requirement | Phase | Status |
 |-------------|-------|--------|
-| IDEN-01 | Phase 1 | Pending |
-| IDEN-02 | Phase 1 | Pending |
+| IDEN-01 | Phase 1 | Complete |
+| IDEN-02 | Phase 1 | Complete |
 | IDEN-03 | Phase 2 | Pending |
 | PUBL-01 | Phase 2 | Pending |
 | PUBL-02 | Phase 2 | Pending |
@@ -85,7 +85,7 @@ Which phases cover which requirements. Updated during roadmap creation.
 | DSGN-02 | Phase 1 | Complete |
 | DSGN-03 | Phase 1 | Complete |
 | INFR-01 | Phase 1 | Complete |
-| INFR-02 | Phase 1 | Pending |
+| INFR-02 | Phase 1 | Complete |
 
 **Coverage:**
 - v1 requirements: 16 total
