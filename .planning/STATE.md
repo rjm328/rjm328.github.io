@@ -3,14 +3,14 @@ gsd_state_version: 1.0
 milestone: v1.0
 milestone_name: milestone
 status: planning
-stopped_at: Completed 04-01-PLAN.md
-last_updated: "2026-03-22T22:55:16.137Z"
+stopped_at: Completed 04-02-PLAN.md — site launched, v1.0 milestone complete
+last_updated: "2026-03-22T23:01:22.978Z"
 last_activity: 2026-03-22 — Roadmap created, all 16 v1 requirements mapped to 4 phases
 progress:
   total_phases: 4
-  completed_phases: 3
+  completed_phases: 4
   total_plans: 8
-  completed_plans: 7
+  completed_plans: 8
   percent: 0
 ---
 
@@ -58,6 +58,7 @@ Progress: [░░░░░░░░░░] 0%
 | Phase 03-cv-and-contact P01 | 8 | 2 tasks | 2 files |
 | Phase 03-cv-and-contact P02 | 15 | 2 tasks | 1 files |
 | Phase 04-qa-and-launch P01 | 6 | 2 tasks | 2 files |
+| Phase 04-qa-and-launch P02 | 15 | 2 tasks | 0 files |
 
 ## Accumulated Context
 
@@ -87,6 +88,9 @@ Recent decisions affecting current work:
 - [Phase 03-cv-and-contact]: Office hours approved as-is: by appointment with email-to-arrange note
 - [Phase 04-qa-and-launch]: Found 3 public Harvard Dataverse deposits (race-regs, rulemaking-speed, occupational-licensing) — data_url populated for all 3; remaining 19 articles confirmed as having no findable public deposits
 - [Phase 04-qa-and-launch]: publications.qmd is a static file — data_url changes in publications.yml do NOT auto-propagate; both files must be updated together
+- [Phase 04-qa-and-launch]: Site launched as https://rjm328.github.io/ — user approved after reviewing all QA results
+- [Phase 04-qa-and-launch]: No formal launch announcement — user will share link informally as needed
+- [Phase 04-qa-and-launch]: INFR-02 (custom domain) deferred — not a blocker for launch; domain not yet purchased
 
 ### Pending Todos
 
@@ -99,6 +103,6 @@ None yet.
 
 ## Session Continuity
 
-Last session: 2026-03-22T22:55:16.132Z
-Stopped at: Completed 04-01-PLAN.md
+Last session: 2026-03-22T23:01:22.954Z
+Stopped at: Completed 04-02-PLAN.md — site launched, v1.0 milestone complete
 Resume file: None
