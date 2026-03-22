@@ -27,6 +27,5 @@ Fairfax, Virginia 22030
   <a href="https://orcid.org/0000-0001-8963-3231" class="btn btn-outline-secondary btn-sm" target="_blank" rel="noopener">ORCID</a>
   <a href="https://scholar.google.com/citations?hl=en&user=kQEBg6wAAAAJ" class="btn btn-outline-secondary btn-sm" target="_blank" rel="noopener">Google Scholar</a>
   <a href="https://github.com/rjm328" class="btn btn-outline-secondary btn-sm" target="_blank" rel="noopener">GitHub</a>
-  <!-- Replace YOURHANDLE with your actual LinkedIn username -->
-  <a href="https://www.linkedin.com/in/YOURHANDLE" class="btn btn-outline-secondary btn-sm" target="_blank" rel="noopener">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/rjmcgrath/" class="btn btn-outline-secondary btn-sm" target="_blank" rel="noopener">LinkedIn</a>
 </div>
