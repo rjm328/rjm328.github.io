@@ -3,14 +3,14 @@ gsd_state_version: 1.0
 milestone: v1.0
 milestone_name: milestone
 status: planning
-stopped_at: Phase 2 context gathered
-last_updated: "2026-03-22T16:03:55.239Z"
+stopped_at: Completed 02-publications-and-data-01-PLAN.md
+last_updated: "2026-03-22T16:38:33.482Z"
 last_activity: 2026-03-22 — Roadmap created, all 16 v1 requirements mapped to 4 phases
 progress:
   total_phases: 4
   completed_phases: 1
-  total_plans: 2
-  completed_plans: 2
+  total_plans: 4
+  completed_plans: 3
   percent: 0
 ---
 
@@ -52,6 +52,7 @@ Progress: [░░░░░░░░░░] 0%
 *Updated after each plan completion*
 | Phase 01-foundation P01 | 3 | 2 tasks | 10 files |
 | Phase 01-foundation P02 | 35 | 3 tasks | 5 files |
+| Phase 02-publications-and-data P01 | 3 | 2 tasks | 2 files |
 
 ## Accumulated Context
 
@@ -69,6 +70,9 @@ Recent decisions affecting current work:
 - [Phase 01-foundation]: Deployed to https://rjm328.github.io/ as user site (rjm328/rjm328.github.io) — no subdirectory in URL
 - [Phase 01-foundation]: Custom domain deferred — INFR-02 partially satisfied; full satisfaction requires out-of-band domain acquisition
 - [Phase 01-foundation]: Working Papers section requested by user — deferred to future Publications phase
+- [Phase 02-publications-and-data]: DOIs populated at high confidence for major journal articles; uncertain entries left empty for user review
+- [Phase 02-publications-and-data]: year: 'Forthcoming' string convention for accepted-not-published articles; null for undated working papers
+- [Phase 02-publications-and-data]: .pub-summary explicit class over em:last-child selector for more robust summary targeting
 
 ### Pending Todos
 
@@ -81,6 +85,6 @@ None yet.
 
 ## Session Continuity
 
-Last session: 2026-03-22T16:03:55.227Z
-Stopped at: Phase 2 context gathered
-Resume file: .planning/phases/02-publications-and-data/02-CONTEXT.md
+Last session: 2026-03-22T16:38:33.479Z
+Stopped at: Completed 02-publications-and-data-01-PLAN.md
+Resume file: None

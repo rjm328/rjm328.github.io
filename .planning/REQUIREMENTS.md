@@ -11,14 +11,14 @@ Requirements for initial release. Each maps to roadmap phases.
 
 - [x] **IDEN-01**: User can view about/bio page with professional photo, affiliation, and background
 - [x] **IDEN-02**: Homepage displays 3-5 sentence research interests summary
-- [ ] **IDEN-03**: Each publication has a plain-language summary accessible to non-academic visitors
+- [x] **IDEN-03**: Each publication has a plain-language summary accessible to non-academic visitors
 
 ### Publications
 
-- [ ] **PUBL-01**: Publications page lists works grouped by type (peer-reviewed articles, book chapters, working papers)
-- [ ] **PUBL-02**: Each publication links to DOI and/or PDF where available
-- [ ] **PUBL-03**: Working papers / preprints displayed as a distinct section
-- [ ] **PUBL-04**: Publications link to associated Dataverse/ICPSR datasets where applicable
+- [x] **PUBL-01**: Publications page lists works grouped by type (peer-reviewed articles, book chapters, working papers)
+- [x] **PUBL-02**: Each publication links to DOI and/or PDF where available
+- [x] **PUBL-03**: Working papers / preprints displayed as a distinct section
+- [x] **PUBL-04**: Publications link to associated Dataverse/ICPSR datasets where applicable
 
 ### CV
 
@@ -72,11 +72,11 @@ Which phases cover which requirements. Updated during roadmap creation.
 |-------------|-------|--------|
 | IDEN-01 | Phase 1 | Complete |
 | IDEN-02 | Phase 1 | Complete |
-| IDEN-03 | Phase 2 | Pending |
-| PUBL-01 | Phase 2 | Pending |
-| PUBL-02 | Phase 2 | Pending |
-| PUBL-03 | Phase 2 | Pending |
-| PUBL-04 | Phase 2 | Pending |
+| IDEN-03 | Phase 2 | Complete |
+| PUBL-01 | Phase 2 | Complete |
+| PUBL-02 | Phase 2 | Complete |
+| PUBL-03 | Phase 2 | Complete |
+| PUBL-04 | Phase 2 | Complete |
 | CV-01 | Phase 3 | Pending |
 | CV-02 | Phase 3 | Pending |
 | CONT-01 | Phase 3 | Pending |
