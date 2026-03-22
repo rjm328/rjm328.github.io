@@ -91,4 +91,4 @@ Phases execute in numeric order: 1 → 2 → 3 → 4
 | 1. Foundation | 2/2 | Complete   | 2026-03-22 |
 | 2. Publications and Data | 2/2 | Complete   | 2026-03-22 |
 | 3. CV and Contact | 0/2 | Planning complete | - |
-| 4. QA and Launch | 0/2 | Planning complete | - |
+| 4. QA and Launch | 1/2 | In Progress|  |
