@@ -3,14 +3,14 @@ gsd_state_version: 1.0
 milestone: v1.0
 milestone_name: milestone
 status: planning
-stopped_at: Completed 02-publications-and-data-01-PLAN.md
-last_updated: "2026-03-22T16:38:33.482Z"
+stopped_at: "Checkpoint: 02-02 Task 2 human-verify — awaiting user review of https://rjm328.github.io/publications.html"
+last_updated: "2026-03-22T16:46:05.717Z"
 last_activity: 2026-03-22 — Roadmap created, all 16 v1 requirements mapped to 4 phases
 progress:
   total_phases: 4
-  completed_phases: 1
+  completed_phases: 2
   total_plans: 4
-  completed_plans: 3
+  completed_plans: 4
   percent: 0
 ---
 
@@ -53,6 +53,7 @@ Progress: [░░░░░░░░░░] 0%
 | Phase 01-foundation P01 | 3 | 2 tasks | 10 files |
 | Phase 01-foundation P02 | 35 | 3 tasks | 5 files |
 | Phase 02-publications-and-data P01 | 3 | 2 tasks | 2 files |
+| Phase 02-publications-and-data P02 | 5 | 1 tasks | 1 files |
 
 ## Accumulated Context
 
@@ -73,6 +74,8 @@ Recent decisions affecting current work:
 - [Phase 02-publications-and-data]: DOIs populated at high confidence for major journal articles; uncertain entries left empty for user review
 - [Phase 02-publications-and-data]: year: 'Forthcoming' string convention for accepted-not-published articles; null for undated working papers
 - [Phase 02-publications-and-data]: .pub-summary explicit class over em:last-child selector for more robust summary targeting
+- [Phase 02-publications-and-data]: Working papers wrapped in single .working-papers div for full-section gold accent bar
+- [Phase 02-publications-and-data]: quarto publish workaround: git worktree push to gh-pages branch when --no-prompt fails with multiple-publish error
 
 ### Pending Todos
 
@@ -85,6 +88,6 @@ None yet.
 
 ## Session Continuity
 
-Last session: 2026-03-22T16:38:33.479Z
-Stopped at: Completed 02-publications-and-data-01-PLAN.md
+Last session: 2026-03-22T16:46:05.713Z
+Stopped at: Checkpoint: 02-02 Task 2 human-verify — awaiting user review of https://rjm328.github.io/publications.html
 Resume file: None

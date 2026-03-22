@@ -13,7 +13,7 @@ Four phases, derived from the natural dependency order of the work. The base lay
 Decimal phases appear between their surrounding integers in numeric order.
 
 - [x] **Phase 1: Foundation** - Quarto project with Distill-inspired design live, About/Home page published, custom domain with HTTPS (completed 2026-03-22)
-- [ ] **Phase 2: Publications and Data** - Publications page with grouped entries, DOI/PDF links, and dataset cross-links
+- [x] **Phase 2: Publications and Data** - Publications page with grouped entries, DOI/PDF links, and dataset cross-links (completed 2026-03-22)
 - [ ] **Phase 3: CV and Contact** - Browser-viewable CV with PDF download, contact page with professional profile links
 - [ ] **Phase 4: QA and Launch** - All links verified, mobile tested, CV and publications cross-checked, site announced
 
@@ -81,6 +81,6 @@ Phases execute in numeric order: 1 → 2 → 3 → 4
 | Phase | Plans Complete | Status | Completed |
 |-------|----------------|--------|-----------|
 | 1. Foundation | 2/2 | Complete   | 2026-03-22 |
-| 2. Publications and Data | 1/2 | In Progress|  |
+| 2. Publications and Data | 2/2 | Complete   | 2026-03-22 |
 | 3. CV and Contact | 0/TBD | Not started | - |
 | 4. QA and Launch | 0/TBD | Not started | - |

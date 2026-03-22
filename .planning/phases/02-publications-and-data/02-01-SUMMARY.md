@@ -77,7 +77,7 @@ Each task was committed atomically:
 1. **Task 1: Create publications.yml with all 26 entries from CV** - `213da9f` (feat)
 2. **Task 2: Add publication SCSS to custom.scss** - `c6f50d4` (feat)
 
-**Plan metadata:** (docs commit follows)
+**Plan metadata:** `fd5fe76` (docs: complete publications data layer plan)
 
 ## Files Created/Modified
 
@@ -110,6 +110,15 @@ None — no external service configuration required.
 - SCSS classes are compiled and ready — .pub-entry, .pub-buttons, .working-papers, .pub-summary all renderable
 - User should review DOI entries and plain-language summaries before publishing; pdf fields left empty for user to supply
 - data_url fields left empty (no dataset DOIs found in CV); user populates when ready
+
+## Self-Check: PASSED
+
+- publications.yml: FOUND (26 entries, all types present, all summaries populated)
+- custom.scss: FOUND (.pub-entry, .pub-buttons, .working-papers, .pub-summary rules present)
+- 02-01-SUMMARY.md: FOUND
+- Commit 213da9f: FOUND (Task 1)
+- Commit c6f50d4: FOUND (Task 2)
+- Commit fd5fe76: FOUND (Plan metadata)
 
 ---
 *Phase: 02-publications-and-data*
