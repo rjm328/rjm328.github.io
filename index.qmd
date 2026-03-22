@@ -1,6 +1,6 @@
 ---
-title: "Dr. Researcher Name"
-subtitle: "Title and Affiliation"
+title: "Robert J. McGrath"
+subtitle: "Associate Professor and Director of PhD Programs in Political Science & Public Policy, Schar School of Policy and Government, George Mason University"
 image: images/profile.jpg
 image-shape: rectangle
 about:
@@ -8,17 +8,20 @@ about:
   links:
     - icon: envelope
       text: Email
-      href: mailto:placeholder@university.edu
+      href: mailto:rmcgrat2@gmu.edu
     - icon: mortarboard-fill
       text: Google Scholar
-      href: https://scholar.google.com/
+      href: https://scholar.google.com/citations?hl=en&user=kQEBg6wAAAAJ
     - icon: person-badge-fill
       text: ORCID
-      href: https://orcid.org/
+      href: https://orcid.org/0000-0001-8963-3231
+    - icon: github
+      text: GitHub
+      href: https://github.com/rjm328
 ---
 
-Brief bio paragraph will go here. This is placeholder content that will be replaced with the author's real bio (2-3 sentences) covering academic background and affiliation.
+Robert J. McGrath earned his PhD in political science from the University of Iowa and holds a BA from Saint Peter's College. He was a Robert Wood Johnson Foundation Scholar in Health Policy Research at the University of Michigan from 2013 to 2015.
 
 ## Research Interests
 
-Research interests summary will go here. This placeholder will be replaced with 3-5 sentences describing the author's research interests in plain language accessible to both academic and non-academic readers.
+His research spans American politics, legislative institutions, public administration, health policy, and federalism. He studies state-level political dynamics, policy spillovers, and the opioid crisis, with a focus on how political institutions shape policy outcomes across levels of government.
