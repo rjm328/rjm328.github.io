@@ -2,6 +2,31 @@
 title: "Contact"
 ---
 
-For inquiries, please reach out by email:
+I welcome correspondence from researchers, journalists, policymakers, and anyone interested in my work.
 
-[rmcgrat2@gmu.edu](mailto:rmcgrat2@gmu.edu)
+**Email:** [rmcgrat2@gmu.edu](mailto:rmcgrat2@gmu.edu)
+
+---
+
+**Office / Mailing Address**
+
+[Schar School of Policy and Government](https://schar.gmu.edu)<br>
+George Mason University<br>
+4400 University Dr., MSN 3F4<br>
+Fairfax, Virginia 22030
+
+<!-- Update office hours text as needed -->
+
+**Availability:** Office hours by appointment. Please email to arrange a meeting time.
+
+---
+
+**Professional Profiles**
+
+<div class="pub-buttons" style="margin-top: 0.5rem;">
+  <a href="https://orcid.org/0000-0001-8963-3231" class="btn btn-outline-secondary btn-sm" target="_blank" rel="noopener">ORCID</a>
+  <a href="https://scholar.google.com/citations?hl=en&user=kQEBg6wAAAAJ" class="btn btn-outline-secondary btn-sm" target="_blank" rel="noopener">Google Scholar</a>
+  <a href="https://github.com/rjm328" class="btn btn-outline-secondary btn-sm" target="_blank" rel="noopener">GitHub</a>
+  <!-- Replace YOURHANDLE with your actual LinkedIn username -->
+  <a href="https://www.linkedin.com/in/YOURHANDLE" class="btn btn-outline-secondary btn-sm" target="_blank" rel="noopener">LinkedIn</a>
+</div>
