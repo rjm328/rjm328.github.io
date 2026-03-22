@@ -31,6 +31,7 @@ Chen, Wendy, William W. Franko, and Robert J. McGrath. 2025. "Occupational Licen
 
 <div class="pub-buttons">
 <a href="https://doi.org/10.1002/pam.22660" class="btn btn-outline-secondary btn-sm" target="_blank" rel="noopener">DOI</a>
+<a href="https://doi.org/10.7910/DVN/OACTQG" class="btn btn-outline-secondary btn-sm" target="_blank" rel="noopener">Data</a>
 </div>
 
 <p class="pub-summary">This study examines whether state occupational licensing laws — which require workers in hundreds of professions to obtain government permission to work — contribute to income inequality. The analysis finds that more expansive licensing regimes are associated with higher inequality, particularly affecting lower-income workers seeking entry into licensed fields.</p>
@@ -61,6 +62,7 @@ Boushey, Graeme, and Robert J. McGrath. 2023. "Rulemaking Speed in the U.S. Stat
 
 <div class="pub-buttons">
 <a href="https://doi.org/10.1093/jopart/muad013" class="btn btn-outline-secondary btn-sm" target="_blank" rel="noopener">DOI</a>
+<a href="https://doi.org/10.7910/DVN/6PXABK" class="btn btn-outline-secondary btn-sm" target="_blank" rel="noopener">Data</a>
 </div>
 
 <p class="pub-summary">This study examines why state agencies complete rulemaking at different speeds, analyzing thousands of regulatory proceedings across all fifty states. The findings identify political and institutional factors — including legislative oversight capacity and gubernatorial preferences — that systematically accelerate or slow the pace at which agencies translate statutory mandates into enforceable rules.</p>
@@ -91,6 +93,7 @@ MacDonald, Jason A., and Robert J. McGrath. 2019. "A Race for the Regs: Unified 
 
 <div class="pub-buttons">
 <a href="https://doi.org/10.1111/lsq.12228" class="btn btn-outline-secondary btn-sm" target="_blank" rel="noopener">DOI</a>
+<a href="https://doi.org/10.7910/DVN/HVMSDE" class="btn btn-outline-secondary btn-sm" target="_blank" rel="noopener">Data</a>
 </div>
 
 <p class="pub-summary">This study finds that federal agencies rush to complete regulations before unified government ends, exploiting statutory deadlines as an opportunity to lock in policy before a hostile incoming Congress can block or reverse their rules. The findings reveal a strategic dimension to bureaucratic timing that connects rulemaking pace to electoral cycles.</p>
