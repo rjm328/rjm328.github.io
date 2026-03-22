@@ -22,8 +22,8 @@ Requirements for initial release. Each maps to roadmap phases.
 
 ### CV
 
-- [ ] **CV-01**: CV page displays academic CV viewable in the browser
-- [ ] **CV-02**: Visitor can download CV as PDF
+- [x] **CV-01**: CV page displays academic CV viewable in the browser
+- [x] **CV-02**: Visitor can download CV as PDF
 
 ### Contact
 
@@ -77,8 +77,8 @@ Which phases cover which requirements. Updated during roadmap creation.
 | PUBL-02 | Phase 2 | Complete |
 | PUBL-03 | Phase 2 | Complete |
 | PUBL-04 | Phase 2 | Complete |
-| CV-01 | Phase 3 | Pending |
-| CV-02 | Phase 3 | Pending |
+| CV-01 | Phase 3 | Complete |
+| CV-02 | Phase 3 | Complete |
 | CONT-01 | Phase 3 | Pending |
 | CONT-02 | Phase 3 | Pending |
 | DSGN-01 | Phase 1 | Complete |

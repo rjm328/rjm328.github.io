@@ -3,14 +3,14 @@ gsd_state_version: 1.0
 milestone: v1.0
 milestone_name: milestone
 status: planning
-stopped_at: Phase 3 context gathered
-last_updated: "2026-03-22T19:08:28.554Z"
+stopped_at: Completed 03-cv-and-contact-01-PLAN.md
+last_updated: "2026-03-22T19:29:36.532Z"
 last_activity: 2026-03-22 — Roadmap created, all 16 v1 requirements mapped to 4 phases
 progress:
   total_phases: 4
   completed_phases: 2
-  total_plans: 4
-  completed_plans: 4
+  total_plans: 6
+  completed_plans: 5
   percent: 0
 ---
 
@@ -55,6 +55,7 @@ Progress: [░░░░░░░░░░] 0%
 | Phase 02-publications-and-data P01 | 3 | 2 tasks | 2 files |
 | Phase 02-publications-and-data P02 | 5 | 1 tasks | 1 files |
 | Phase 02-publications-and-data P02 | 35 | 2 tasks | 1 files |
+| Phase 03-cv-and-contact P01 | 8 | 2 tasks | 2 files |
 
 ## Accumulated Context
 
@@ -78,6 +79,8 @@ Recent decisions affecting current work:
 - [Phase 02-publications-and-data]: Working papers wrapped in single .working-papers div for full-section gold accent bar
 - [Phase 02-publications-and-data]: quarto publish workaround: git worktree push to gh-pages branch when --no-prompt fails with multiple-publish error
 - [Phase 02-publications-and-data]: All original AI-generated DOIs were hallucinated and required CrossRef API correction — future YAML edits should verify DOIs before deploying
+- [Phase 03-cv-and-contact]: Book reviews included as subsection under Publications in browser CV (they are publications, just not tracked in publications.yml)
+- [Phase 03-cv-and-contact]: Publication count in cv.qmd is manually maintained — must update if publications.yml changes
 
 ### Pending Todos
 
@@ -90,6 +93,6 @@ None yet.
 
 ## Session Continuity
 
-Last session: 2026-03-22T19:08:28.504Z
-Stopped at: Phase 3 context gathered
-Resume file: .planning/phases/03-cv-and-contact/03-CONTEXT.md
+Last session: 2026-03-22T19:29:36.526Z
+Stopped at: Completed 03-cv-and-contact-01-PLAN.md
+Resume file: None
