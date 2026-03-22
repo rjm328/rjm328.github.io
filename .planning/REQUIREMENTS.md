@@ -61,22 +61,22 @@ Which phases cover which requirements. Updated during roadmap creation.
 
 | Requirement | Phase | Status |
 |-------------|-------|--------|
-| HERO-01 | TBD | Pending |
-| HERO-02 | TBD | Pending |
-| PUBS-01 | TBD | Pending |
-| PUBS-02 | TBD | Pending |
-| PUBS-03 | TBD | Pending |
-| CVFX-01 | TBD | Pending |
-| CVFX-02 | TBD | Pending |
-| DSGN-04 | TBD | Pending |
-| DATA-01 | TBD | Pending |
-| DATA-02 | TBD | Pending |
+| HERO-01 | Phase 5 | Pending |
+| HERO-02 | Phase 5 | Pending |
+| DSGN-04 | Phase 5 | Pending |
+| PUBS-01 | Phase 6 | Pending |
+| PUBS-02 | Phase 6 | Pending |
+| PUBS-03 | Phase 6 | Pending |
+| CVFX-01 | Phase 7 | Pending |
+| CVFX-02 | Phase 7 | Pending |
+| DATA-01 | Phase 8 | Pending |
+| DATA-02 | Phase 8 | Pending |
 
 **Coverage:**
 - v1.1 requirements: 10 total
-- Mapped to phases: 0
-- Unmapped: 10
+- Mapped to phases: 10
+- Unmapped: 0
 
 ---
 *Requirements defined: 2026-03-22*
-*Last updated: 2026-03-22 after milestone v1.1 start*
+*Last updated: 2026-03-22 after v1.1 roadmap creation*
