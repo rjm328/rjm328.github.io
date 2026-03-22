@@ -75,7 +75,11 @@ Plans:
   2. CV PDF content matches the publications page (no entries present in one but missing from the other)
   3. Both https://yourdomain.com and https://www.yourdomain.com load correctly with valid HTTPS certificates
   4. All pages display correctly on a real mobile device (not just devtools simulation)
-**Plans**: TBD
+**Plans**: 2 plans
+
+Plans:
+- [ ] 04-01-PLAN.md — DOI verification, link audit, CV cross-check, and data repository URL lookup
+- [ ] 04-02-PLAN.md — Mobile rendering verification, final deployment, and user sign-off
 
 ## Progress
 
@@ -87,4 +91,4 @@ Phases execute in numeric order: 1 → 2 → 3 → 4
 | 1. Foundation | 2/2 | Complete   | 2026-03-22 |
 | 2. Publications and Data | 2/2 | Complete   | 2026-03-22 |
 | 3. CV and Contact | 0/2 | Planning complete | - |
-| 4. QA and Launch | 0/TBD | Not started | - |
+| 4. QA and Launch | 0/2 | Planning complete | - |
