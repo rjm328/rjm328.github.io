@@ -1,0 +1,37 @@
+/*-- scss:defaults --*/
+
+@import url('https://fonts.googleapis.com/css2?family=Source+Serif+4:ital,opsz,wght@0,8..60,300..900;1,8..60,300..900&family=DM+Sans:ital,opsz,wght@0,9..40,300..900;1,9..40,300..900&display=swap');
+
+/* Warm neutrals palette — locked by user decision */
+$body-bg:       #FAF8F5;
+$body-color:    #3D3632;
+$link-color:    #8B5E3C;
+$navbar-bg:     #FAF8F5;
+$navbar-fg:     #3D3632;
+$navbar-hl:     #C4813D;
+$footer-bg:     #EDE9E4;
+
+/* Typography — Source Serif 4 for body, DM Sans for headings and UI */
+$font-family-sans-serif: "DM Sans", system-ui, -apple-system, sans-serif;
+$font-family-base:       "Source Serif 4", Georgia, "Times New Roman", serif;
+$headings-font-family:   "DM Sans", system-ui, sans-serif;
+$headings-font-weight:   600;
+
+/*-- scss:rules --*/
+
+body {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* Narrow centered content column — Distill.pub-inspired */
+.quarto-container {
+  max-width: 720px;
+}
+
+/* Trestles mobile fix — prevent photo touching navbar */
+@media (max-width: 768px) {
+  .about-image {
+    margin-top: 1.5rem;
+  }
+}
