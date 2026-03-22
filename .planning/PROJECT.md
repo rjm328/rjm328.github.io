@@ -2,7 +2,7 @@
 
 ## What This Is
 
-A personal academic website for a social scientist that showcases publications, data projects, and professional information. The site serves both academic peers (collaborators, hiring committees) and the general public (journalists, policymakers) with a modern, Distill.pub-inspired design. Hosted for free with a custom domain.
+A personal academic website for Robert J. McGrath, Associate Professor at George Mason University's Schar School of Policy and Government. The site showcases 26 publications (with CrossRef-verified DOIs and plain-language summaries), a browser-viewable CV, and professional contact information. Built with Quarto and hosted on GitHub Pages with a Distill.pub-inspired warm neutral design.
 
 ## Core Value
 
@@ -12,49 +12,60 @@ Visitors can quickly find and navigate to the author's scholarly publications an
 
 ### Validated
 
-(None yet — ship to validate)
+- About/bio page with research interests and background — v1.0
+- Publications page linking to journal articles, book chapters, working papers — v1.0
+- Data links integrated into publications (Dataverse cross-links on 3 papers) — v1.0
+- CV page viewable in browser and downloadable as PDF — v1.0
+- Contact page with email, office address, and professional profile links — v1.0
+- Modern academic aesthetic — Distill.pub-inspired warm neutrals, Source Serif 4 + DM Sans — v1.0
+- Free hosting on GitHub Pages — v1.0
+- Responsive design works on mobile and desktop — v1.0
+- Plain-language summaries on all 26 publications — v1.0
 
 ### Active
 
-- [ ] About/bio page with research interests and background
-- [ ] Publications page linking to journal articles, book chapters, working papers
-- [ ] Data projects page linking to externally-hosted datasets and repositories (Dataverse, ICPSR, etc.)
-- [ ] CV/resume page (viewable on-site and downloadable as PDF)
-- [ ] Contact page with email, social/professional links
-- [ ] Modern academic aesthetic — clean typography, whitespace, Distill.pub-inspired
-- [ ] Free hosting (GitHub Pages or Netlify free tier)
-- [ ] Custom domain support
-- [ ] Responsive design (works on mobile and desktop)
+- [ ] Custom domain with HTTPS (domain not yet purchased)
+- [ ] PDF self-hosting (author-accepted manuscripts)
+- [ ] Additional Dataverse/ICPSR data links as deposits become public
 
 ### Out of Scope
 
 - Blog/writing section — not requested for v1
 - Interactive data visualizations hosted on-site — data work links to external platforms
-- CMS or admin panel — static site, content managed via code
+- CMS or admin panel — static site, content managed via code/files
 - User accounts or authentication — public-facing read-only site
+- Comment sections or contact forms — email link is sufficient
+- Analytics / visitor tracking — privacy implications
+- Google Scholar auto-sync — unofficial API is brittle
 
 ## Context
 
-- Social sciences researcher with a mix of traditional publications and data-focused work
-- Data projects are hosted on external platforms (Dataverse, ICPSR, etc.) — site links out rather than hosting data
-- Content is partially ready — some material exists, some will be created after the site is built
-- Audience is dual: academic peers expect credibility and completeness; general public expects clarity and accessibility
-- "Beautiful" means modern academic — think Distill.pub: rich typography, clean layout, content-forward design
+- Site live at https://rjm328.github.io/ — all 4 pages functional
+- 1,008 lines of source code (Quarto YAML/QMD/SCSS)
+- Tech stack: Quarto 1.9.36 + GitHub Pages, cosmo base theme + custom.scss
+- 26 publications in publications.yml (single source of truth), 22 with DOIs, 3 with Dataverse [Data] buttons
+- CV parsed from RJM-CV-v.oct25.pdf into 4 HTML sections
+- Dual audience: academic peers (APSA citations, DOI links) and general public (plain-language summaries)
 
 ## Constraints
 
-- **Budget**: Free hosting (GitHub Pages / Netlify free tier); custom domain is acceptable cost
-- **Maintenance**: Should be easy to update without deep technical knowledge
-- **Performance**: Static site preferred — fast load times, no server dependency
+- **Budget**: Free hosting (GitHub Pages); custom domain is acceptable cost when purchased
+- **Maintenance**: YAML-driven publications — easy to add entries without deep technical knowledge
+- **Performance**: Static site — fast load times, no server dependency
 - **Accessibility**: Must work for both technical and non-technical audiences
 
 ## Key Decisions
 
 | Decision | Rationale | Outcome |
 |----------|-----------|---------|
-| Static site over CMS | Free hosting, fast, secure, version-controlled | — Pending |
-| Link to external data platforms rather than self-host | Data already lives on Dataverse/ICPSR; no need to duplicate | — Pending |
-| Distill.pub-inspired design direction | User's stated aesthetic preference; modern academic credibility | — Pending |
+| Quarto + GitHub Pages | Free, fast, version-controlled, academic ecosystem | ✓ Good |
+| Link to external data platforms | Data on Dataverse/ICPSR; no need to duplicate | ✓ Good |
+| Distill.pub warm neutrals design | User's aesthetic preference; scholarly but approachable | ✓ Good |
+| YAML single source of truth | publications.yml reusable across pages; easy to maintain | ✓ Good |
+| APSA citation format | Standard for political science; credible to field | ✓ Good |
+| CrossRef API for DOI verification | AI-generated DOIs were all wrong; API lookup is mandatory | ✓ Good |
+| mailto: contact, no form | Keeps GitHub Pages viable; no server dependency | ✓ Good |
+| Custom domain deferred | Domain not purchased; site works at github.io URL | — Pending |
 
 ---
-*Last updated: 2026-03-22 after initialization*
+*Last updated: 2026-03-22 after v1.0 milestone*
