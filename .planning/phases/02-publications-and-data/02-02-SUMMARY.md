@@ -2,7 +2,7 @@
 phase: 02-publications-and-data
 plan: "02"
 subsystem: ui
-tags: [quarto, publications, apsa, html, css, github-pages]
+tags: [quarto, publications, apsa, html, css, github-pages, doi, crossref]
 
 # Dependency graph
 requires:
@@ -47,20 +47,20 @@ patterns-established:
 requirements-completed: [PUBL-01, PUBL-02, PUBL-03, PUBL-04, IDEN-03]
 
 # Metrics
-duration: 5min
+duration: ~35min
 completed: 2026-03-22
 ---
 
 # Phase 2 Plan 02: Publications Page Summary
 
-**26-entry publications.qmd with APSA citations, conditional DOI buttons, gold working-papers accent bar, and italic plain-language summaries deployed to https://rjm328.github.io/publications.html**
+**26-entry publications.qmd with APSA citations, 22 CrossRef-validated DOI buttons, gold working-papers accent bar, and italic plain-language summaries — user-approved at https://rjm328.github.io/publications.html**
 
 ## Performance
 
-- **Duration:** ~5 min
+- **Duration:** ~35 min
 - **Started:** 2026-03-22T16:40:09Z
-- **Completed:** 2026-03-22T16:44:54Z
-- **Tasks:** 1 completed (Task 2 is human-verify checkpoint, awaiting review)
+- **Completed:** 2026-03-22
+- **Tasks:** 2 completed (1 auto + 1 human-verify, user approved)
 - **Files modified:** 1
 
 ## Accomplishments
@@ -68,7 +68,7 @@ completed: 2026-03-22
 - Replaced stub `publications.qmd` with complete 246-line page containing all 26 entries from publications.yml
 - Structured into three sections: Peer-Reviewed Articles (22 entries), Book Chapters (1 entry), Working Papers and Works in Progress (3 entries)
 - Applied APSA citation format throughout: inverted first author, journal in italics, volume(issue): pages
-- Rendered conditional DOI buttons on 20 entries (those with non-empty doi fields); no PDF or Data buttons (fields currently empty)
+- Rendered conditional DOI buttons on 22 entries (20 corrected via CrossRef API + 2 new for Forthcoming articles); no PDF or Data buttons (fields currently empty)
 - Wrapped all 3 working paper entries in `.working-papers` div for gold left accent bar (PUBL-03)
 - Added `<p class="pub-summary">` italic summaries to every entry (IDEN-03)
 - Quarto render: clean build, 26 pub-entry divs, 3 H2 sections, 26 summaries, 20 DOI links confirmed
@@ -79,10 +79,11 @@ completed: 2026-03-22
 Each task was committed atomically:
 
 1. **Task 1: Write publications.qmd with all entries and deploy** - `c79b1e6` (feat)
+2. **Task 1 deviation: correct all DOIs via CrossRef** - `e267470` (fix)
+3. **Task 1 deviation: regenerate publications.qmd with corrected DOIs** - `7f77807` (fix)
+4. **Task 2: human-verify checkpoint** - N/A (user approved; no code change)
 
-Task 2 (human-verify checkpoint) is awaiting user approval.
-
-**Plan metadata:** (docs commit follows after human verification)
+**Plan metadata:** (docs commit made after user approval)
 
 ## Files Created/Modified
 
@@ -107,12 +108,23 @@ Task 2 (human-verify checkpoint) is awaiting user approval.
 
 ---
 
-**Total deviations:** 1 auto-fixed (1 blocking — deployment method)
-**Impact on plan:** No scope creep; same outcome (live deployed page). _publish.yml and main branch are unchanged.
+**2. [Rule 1 - Bug] All original DOI values were hallucinated and required CrossRef correction**
+- **Found during:** Task 1 (after initial publications.qmd generation)
+- **Issue:** The AI-generated DOI values written into publications.qmd were plausible-looking but incorrect — none resolved to the actual papers. 20 existing entries had wrong DOIs; 2 Forthcoming entries had no DOI and needed new ones sourced.
+- **Fix:** Queried CrossRef API for each article by title and first author; replaced all DOI values with verified CrossRef-returned URLs. Two Forthcoming articles (High Hurdles, Shared Pain) had DOIs retrieved from CrossRef early-access records.
+- **Files modified:** publications.qmd
+- **Verification:** Each replaced DOI resolves correctly via doi.org
+- **Committed in:** `e267470`, `7f77807`
+
+---
+
+**Total deviations:** 2 auto-fixed (1 blocking — deployment method; 1 bug — hallucinated DOIs)
+**Impact on plan:** Both fixes were necessary for correctness. DOI fix is critical — without it, every DOI button would link to nonexistent or wrong papers. No scope creep.
 
 ## Issues Encountered
 
 - `quarto publish gh-pages --no-prompt` failed with Quarto 1.2.475 bug requiring `--id` flag when _publish.yml has a single entry with no explicit ID. Workaround via git worktree is equivalent and leaves no artifacts.
+- All AI-generated DOI values required CrossRef verification and replacement. For future publications page updates, DOIs should be validated against CrossRef before committing.
 
 ## User Setup Required
 
@@ -127,10 +139,11 @@ None — no external service configuration required.
 
 ## Self-Check: PASSED
 
-- publications.qmd: FOUND (246 lines, 26 entries, 3 sections)
+- publications.qmd: FOUND (22 DOI buttons with CrossRef-validated URLs, 3 sections, 26 summaries)
 - Commit c79b1e6: FOUND (Task 1 — feat: write publications.qmd)
-- _site/publications.html: FOUND (26 pub-entry, 3 H2, 1 working-papers, 26 pub-summary)
-- https://rjm328.github.io/publications.html: HTTP 200 confirmed
+- Commit e267470: FOUND (fix: correct all DOIs via CrossRef lookup)
+- Commit 7f77807: FOUND (fix: regenerate publications.qmd with corrected DOIs)
+- https://rjm328.github.io/publications.html: HTTP 200 confirmed; user approved
 
 ---
 *Phase: 02-publications-and-data*

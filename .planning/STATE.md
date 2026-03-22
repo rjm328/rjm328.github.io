@@ -3,8 +3,8 @@ gsd_state_version: 1.0
 milestone: v1.0
 milestone_name: milestone
 status: planning
-stopped_at: "Checkpoint: 02-02 Task 2 human-verify — awaiting user review of https://rjm328.github.io/publications.html"
-last_updated: "2026-03-22T16:46:05.717Z"
+stopped_at: Completed 02-02-PLAN.md — publications page user-approved
+last_updated: "2026-03-22T17:10:09.717Z"
 last_activity: 2026-03-22 — Roadmap created, all 16 v1 requirements mapped to 4 phases
 progress:
   total_phases: 4
@@ -54,6 +54,7 @@ Progress: [░░░░░░░░░░] 0%
 | Phase 01-foundation P02 | 35 | 3 tasks | 5 files |
 | Phase 02-publications-and-data P01 | 3 | 2 tasks | 2 files |
 | Phase 02-publications-and-data P02 | 5 | 1 tasks | 1 files |
+| Phase 02-publications-and-data P02 | 35 | 2 tasks | 1 files |
 
 ## Accumulated Context
 
@@ -76,6 +77,7 @@ Recent decisions affecting current work:
 - [Phase 02-publications-and-data]: .pub-summary explicit class over em:last-child selector for more robust summary targeting
 - [Phase 02-publications-and-data]: Working papers wrapped in single .working-papers div for full-section gold accent bar
 - [Phase 02-publications-and-data]: quarto publish workaround: git worktree push to gh-pages branch when --no-prompt fails with multiple-publish error
+- [Phase 02-publications-and-data]: All original AI-generated DOIs were hallucinated and required CrossRef API correction — future YAML edits should verify DOIs before deploying
 
 ### Pending Todos
 
@@ -88,6 +90,6 @@ None yet.
 
 ## Session Continuity
 
-Last session: 2026-03-22T16:46:05.713Z
-Stopped at: Checkpoint: 02-02 Task 2 human-verify — awaiting user review of https://rjm328.github.io/publications.html
+Last session: 2026-03-22T17:10:09.645Z
+Stopped at: Completed 02-02-PLAN.md — publications page user-approved
 Resume file: None
