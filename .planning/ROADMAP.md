@@ -48,8 +48,8 @@ Plans:
 **Plans**: 2 plans
 
 Plans:
-- [ ] 02-01-PLAN.md — Create publications.yml data file and publication SCSS styles
-- [ ] 02-02-PLAN.md — Write publications.qmd page, deploy, and verify live result
+- [x] 02-01-PLAN.md — Create publications.yml data file and publication SCSS styles
+- [x] 02-02-PLAN.md — Write publications.qmd page, deploy, and verify live result
 
 ### Phase 3: CV and Contact
 **Goal**: Visitors can view and download the full academic CV, and can reach the author through email and professional profiles
@@ -60,7 +60,11 @@ Plans:
   2. Visitor can download the CV as a PDF from a clearly labeled button on the CV page
   3. Contact page displays the author's email address directly (not hidden behind a form)
   4. Contact page links to ORCID, Google Scholar, and other professional profiles
-**Plans**: TBD
+**Plans**: 2 plans
+
+Plans:
+- [ ] 03-01-PLAN.md — CV page with four structured sections and PDF download button
+- [ ] 03-02-PLAN.md — Contact page with email, address, and professional profile links
 
 ### Phase 4: QA and Launch
 **Goal**: Every page, link, and cross-reference is verified correct before the URL is shared publicly
@@ -82,5 +86,5 @@ Phases execute in numeric order: 1 → 2 → 3 → 4
 |-------|----------------|--------|-----------|
 | 1. Foundation | 2/2 | Complete   | 2026-03-22 |
 | 2. Publications and Data | 2/2 | Complete   | 2026-03-22 |
-| 3. CV and Contact | 0/TBD | Not started | - |
+| 3. CV and Contact | 0/2 | Planning complete | - |
 | 4. QA and Launch | 0/TBD | Not started | - |
