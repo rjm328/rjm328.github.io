@@ -32,8 +32,8 @@ Decimal phases appear between their surrounding integers in numeric order.
 **Plans**: 2 plans
 
 Plans:
-- [ ] 01-01-PLAN.md — Scaffold Quarto project with SCSS theme, navbar, and stub pages
-- [ ] 01-02-PLAN.md — Inject real content, deploy to GitHub Pages, verify live site
+- [x] 01-01-PLAN.md — Scaffold Quarto project with SCSS theme, navbar, and stub pages
+- [x] 01-02-PLAN.md — Inject real content, deploy to GitHub Pages, verify live site
 
 ### Phase 2: Publications and Data
 **Goal**: Visitors can browse all scholarly work organized by type, with links to full text and associated datasets
@@ -45,7 +45,11 @@ Plans:
   3. Working papers are displayed as their own section, visually distinct from published work
   4. Publications that have associated Dataverse/ICPSR datasets link to those repositories directly from the entry
   5. Each publication displays a plain-language summary readable by a non-academic visitor (journalist, policymaker)
-**Plans**: TBD
+**Plans**: 2 plans
+
+Plans:
+- [ ] 02-01-PLAN.md — Create publications.yml data file and publication SCSS styles
+- [ ] 02-02-PLAN.md — Write publications.qmd page, deploy, and verify live result
 
 ### Phase 3: CV and Contact
 **Goal**: Visitors can view and download the full academic CV, and can reach the author through email and professional profiles
@@ -77,6 +81,6 @@ Phases execute in numeric order: 1 → 2 → 3 → 4
 | Phase | Plans Complete | Status | Completed |
 |-------|----------------|--------|-----------|
 | 1. Foundation | 2/2 | Complete   | 2026-03-22 |
-| 2. Publications and Data | 0/TBD | Not started | - |
+| 2. Publications and Data | 0/2 | Planning complete | - |
 | 3. CV and Contact | 0/TBD | Not started | - |
 | 4. QA and Launch | 0/TBD | Not started | - |
