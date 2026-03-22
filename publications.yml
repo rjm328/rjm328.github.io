@@ -1,0 +1,412 @@
+# publications.yml
+# Single source of truth for all publication entries.
+# Ordered: articles first (Forthcoming first, then reverse-chron), then chapters, then working papers.
+# All string fields default to "" (never null) except year, which may be null for undated entries.
+# DOIs populated where lookups succeed with high confidence; "" where uncertain.
+# Summaries are Claude's drafts — user should review before publishing.
+
+# ============================================================
+# PEER-REVIEWED ARTICLES (22 entries)
+# ============================================================
+
+- title: "High Hurdles: Legislative Professionalism and the Effectiveness of Women State Legislators"
+  authors:
+    - "McGrath, Robert J."
+    - "Josh M. Ryan"
+    - "Jatia Wrighten"
+  year: "Forthcoming"
+  type: article
+  journal: "The Journal of Politics"
+  volume: ""
+  issue: ""
+  pages: ""
+  doi: ""
+  pdf: ""
+  data_url: ""
+  summary: "This study examines whether the professionalization of state legislatures — through higher pay, longer sessions, and larger staffs — affects how effectively women legislators translate their numbers into legislative outputs. The findings shed light on how institutional design shapes gender representation in American politics."
+
+- title: "Shared Pain, Common Purpose: How Shared Problem Status Drives Congressional Collaboration on Opioid Legislation"
+  authors:
+    - "McGrath, Robert J."
+  year: "Forthcoming"
+  type: article
+  journal: "Legislative Studies Quarterly"
+  volume: ""
+  issue: ""
+  pages: ""
+  doi: ""
+  pdf: ""
+  data_url: ""
+  summary: "This study investigates why members of Congress from different parties collaborate on opioid legislation, finding that when legislators represent communities equally devastated by the opioid crisis, shared problem status creates common ground for bipartisan cooperation."
+
+- title: "Occupational Licensing and Income Inequality in the States"
+  authors:
+    - "Chen, Wendy"
+    - "William W. Franko"
+    - "Robert J. McGrath"
+  year: 2025
+  type: article
+  journal: "Journal of Policy Analysis and Management"
+  volume: "44"
+  issue: "4"
+  pages: "1374–1393"
+  doi: "https://doi.org/10.1002/pam.22634"
+  pdf: ""
+  data_url: ""
+  summary: "This study examines whether state occupational licensing laws — which require workers in hundreds of professions to obtain government permission to work — contribute to income inequality. The analysis finds that more expansive licensing regimes are associated with higher inequality, particularly affecting lower-income workers seeking entry into licensed fields."
+
+- title: "American Federalism and Health Policy Spillovers: Insights from the Opioid Crisis"
+  authors:
+    - "McGrath, Robert J."
+  year: 2025
+  type: article
+  journal: "Publius: The Journal of Federalism"
+  volume: "55"
+  issue: "3"
+  pages: "477–511"
+  doi: "https://doi.org/10.1093/publius/pjae040"
+  pdf: ""
+  data_url: ""
+  summary: "This study uses the opioid epidemic as a lens to examine how health policies adopted in one state spill over into neighboring states under the American federal system. The findings reveal that state-level policy choices can export both benefits and harms across state borders, with implications for how we design intergovernmental health policy."
+
+- title: "Listen to Me: Quality of Communication and Intergenerational Political Socialization"
+  authors:
+    - "Andolina, Molly A."
+    - "Jeremy D. Mayer"
+    - "Robert J. McGrath"
+  year: 2024
+  type: article
+  journal: "Political Research Quarterly"
+  volume: "77"
+  issue: "2"
+  pages: "451–468"
+  doi: "https://doi.org/10.1177/10659129231175075"
+  pdf: ""
+  data_url: ""
+  summary: "This study asks whether the quality — not just the quantity — of political conversations between parents and children shapes young people's political development. The findings show that when parents listen and engage respectfully, their children are more likely to absorb political attitudes and develop civic orientations."
+
+- title: "Rulemaking Speed in the U.S. States"
+  authors:
+    - "Boushey, Graeme"
+    - "Robert J. McGrath"
+  year: 2023
+  type: article
+  journal: "Journal of Public Administration Research and Theory"
+  volume: "34"
+  issue: "2"
+  pages: "284–300"
+  doi: "https://doi.org/10.1093/jopart/muad005"
+  pdf: ""
+  data_url: ""
+  summary: "This study examines why state agencies complete rulemaking at different speeds, analyzing thousands of regulatory proceedings across all fifty states. The findings identify political and institutional factors — including legislative oversight capacity and gubernatorial preferences — that systematically accelerate or slow the pace at which agencies translate statutory mandates into enforceable rules."
+
+- title: "Does Partisan Conflict Lead to Increased Bureaucratic Policymaking? Evidence from the American States"
+  authors:
+    - "Boushey, Graeme"
+    - "Robert J. McGrath"
+  year: 2020
+  type: article
+  journal: "Journal of Public Administration Research and Theory"
+  volume: "30"
+  issue: "3"
+  pages: "432–447"
+  doi: "https://doi.org/10.1093/jopart/muz036"
+  pdf: ""
+  data_url: ""
+  summary: "This study tests whether partisan gridlock in state legislatures pushes policymaking into the hands of unelected bureaucrats, finding that agencies produce more rules when partisan conflict makes legislative compromise difficult. The results suggest that bureaucratic policymaking serves as a safety valve when elected politicians cannot agree."
+
+- title: "Party Effects in State Legislative Committees"
+  authors:
+    - "McGrath, Robert J."
+    - "Josh M. Ryan"
+  year: 2019
+  type: article
+  journal: "Legislative Studies Quarterly"
+  volume: "44"
+  issue: "4"
+  pages: "553–592"
+  doi: "https://doi.org/10.1111/lsq.12243"
+  pdf: ""
+  data_url: ""
+  summary: "This study examines how party majority status shapes committee behavior in state legislatures, finding that majority parties use committees as strategic tools to advance their priorities while suppressing minority-party legislation. The results demonstrate that even in lower-profile state legislative chambers, partisan politics fundamentally structure which bills survive the committee process."
+
+- title: "A Race for the Regs: Unified Government, Statutory Deadlines, and Federal Agency Rulemaking"
+  authors:
+    - "MacDonald, Jason A."
+    - "Robert J. McGrath"
+  year: 2019
+  type: article
+  journal: "Legislative Studies Quarterly"
+  volume: "44"
+  issue: "2"
+  pages: "345–381"
+  doi: "https://doi.org/10.1111/lsq.12230"
+  pdf: ""
+  data_url: ""
+  summary: "This study finds that federal agencies rush to complete regulations before unified government ends, exploiting statutory deadlines as an opportunity to lock in policy before a hostile incoming Congress can block or reverse their rules. The findings reveal a strategic dimension to bureaucratic timing that connects rulemaking pace to electoral cycles."
+
+- title: "Veto Override Requirements and Executive Success"
+  authors:
+    - "McGrath, Robert J."
+    - "Jon C. Rogowski"
+    - "Josh M. Ryan"
+  year: 2018
+  type: article
+  journal: "Political Science Research and Methods"
+  volume: "6"
+  issue: "1"
+  pages: "153–179"
+  doi: "https://doi.org/10.1017/psrm.2016.14"
+  pdf: ""
+  data_url: ""
+  summary: "This study examines how the constitutional threshold required to override a gubernatorial veto affects executive bargaining power in state legislatures, finding that higher override thresholds give governors greater leverage to shape legislation before it reaches their desk. The results have broad implications for understanding how formal institutional rules translate into real political power."
+
+- title: "Directing Discipline: State Medical Board Responsiveness to State Legislatures"
+  authors:
+    - "Lillvis, Denise F."
+    - "Robert J. McGrath"
+  year: 2017
+  type: article
+  journal: "Journal of Health Politics, Policy and Law"
+  volume: "42"
+  issue: "1"
+  pages: "123–165"
+  doi: "https://doi.org/10.1215/03616878-3702827"
+  pdf: ""
+  data_url: ""
+  summary: "This study examines whether state medical boards — the agencies responsible for licensing and disciplining physicians — respond to signals from state legislatures, finding that boards do adjust their disciplinary activity in response to legislative attention. The results suggest that even professionally insulated regulatory bodies are not immune to political influence."
+
+- title: "Experts, Amateurs, and Bureaucratic Influence in the American States"
+  authors:
+    - "Boushey, Graeme"
+    - "Robert J. McGrath"
+  year: 2017
+  type: article
+  journal: "Journal of Public Administration Research and Theory"
+  volume: "27"
+  issue: "1"
+  pages: "85–103"
+  doi: "https://doi.org/10.1093/jopart/muw041"
+  pdf: ""
+  data_url: ""
+  summary: "This study investigates who participates in state agency rulemaking proceedings and whose comments agencies respond to, finding that organized interests and professional experts exert greater influence over regulatory outcomes than ordinary citizens. The findings raise important questions about democratic accountability in the administrative state."
+
+- title: "Retrospective Congressional Oversight and the Dynamics of Legislative Influence over the Bureaucracy"
+  authors:
+    - "MacDonald, Jason A."
+    - "Robert J. McGrath"
+  year: 2016
+  type: article
+  journal: "Legislative Studies Quarterly"
+  volume: "41"
+  issue: "4"
+  pages: "899–934"
+  doi: "https://doi.org/10.1111/lsq.12135"
+  pdf: ""
+  data_url: ""
+  summary: "This study examines how Congress exercises retrospective oversight — scrutinizing agencies after they have acted rather than before — and finds that legislative attention to past agency behavior shapes how agencies act in the future. The results suggest that the threat of retrospective oversight disciplines bureaucratic behavior even in the absence of formal sanctions."
+
+- title: "The Marginality Hypothesis and Supreme Court Confirmation Votes in the Senate"
+  authors:
+    - "McGrath, Robert J."
+    - "James A. Rydberg"
+  year: 2016
+  type: article
+  journal: "Congress & the Presidency"
+  volume: "43"
+  issue: "3"
+  pages: "324–351"
+  doi: "https://doi.org/10.1080/07343469.2016.1206048"
+  pdf: ""
+  data_url: ""
+  summary: "This study tests whether senators from competitive states are more likely to cross party lines when voting on Supreme Court nominees, finding limited support for the 'marginality hypothesis' that electoral vulnerability drives moderate voting on high-profile judicial confirmations. The results highlight the increasing dominance of partisan cues even in consequential Senate roll call votes."
+
+- title: "Congress as Manager: Oversight Hearings and Agency Morale"
+  authors:
+    - "Marvel, John D."
+    - "Robert J. McGrath"
+  year: 2016
+  type: article
+  journal: "Journal of Public Policy"
+  volume: "36"
+  issue: "3"
+  pages: "489–520"
+  doi: "https://doi.org/10.1017/S0143814X15000094"
+  pdf: ""
+  data_url: ""
+  summary: "This study examines how congressional oversight hearings affect the morale of federal agency employees, finding that critical oversight — particularly when politically motivated — depresses employee satisfaction and organizational commitment. The results suggest that congressional micromanagement carries hidden costs by undermining the bureaucratic capacity it purports to improve."
+
+- title: "Constraining a Shadowy Future: Enacting APAs in Parliamentary Systems"
+  authors:
+    - "Rhee Baum, Jeeyang"
+    - "Christian B. Jensen"
+    - "Robert J. McGrath"
+  year: 2016
+  type: article
+  journal: "Legislative Studies Quarterly"
+  volume: "41"
+  issue: "2"
+  pages: "471–499"
+  doi: "https://doi.org/10.1111/lsq.12117"
+  pdf: ""
+  data_url: ""
+  summary: "This study examines why parliamentary governments adopt administrative procedure acts (APAs) — laws that constrain executive agencies' rulemaking authority — finding that governing parties enact these constraints strategically when they anticipate losing power. The findings reveal that formal administrative law can serve as a tool for locking in policy and limiting future governments' discretion."
+
+- title: "Gubernatorial Veto Powers and the Size of Legislative Coalitions"
+  authors:
+    - "McGrath, Robert J."
+    - "Jon C. Rogowski"
+    - "Josh M. Ryan"
+  year: 2015
+  type: article
+  journal: "Legislative Studies Quarterly"
+  volume: "40"
+  issue: "4"
+  pages: "571–598"
+  doi: "https://doi.org/10.1111/lsq.12090"
+  pdf: ""
+  data_url: ""
+  summary: "This study examines how the strength of the gubernatorial veto — determined by the constitutional threshold required to override it — shapes the size of legislative coalitions that pass bills in state legislatures. Governors with strong veto powers induce larger legislative majorities because legislators anticipate the need to withstand a potential override."
+
+- title: "Legislatures, Courts, and Statutory Control of the Bureaucracy across the U.S. States"
+  authors:
+    - "McGrath, Robert J."
+  year: 2013
+  type: article
+  journal: "State Politics and Policy Quarterly"
+  volume: "13"
+  issue: "3"
+  pages: "373–397"
+  doi: "https://doi.org/10.1177/1532440013483206"
+  pdf: ""
+  data_url: ""
+  summary: "This study examines how state legislatures and courts together shape bureaucratic behavior, finding that statutory constraints embedded in enabling legislation and the threat of judicial review both discipline agency policymaking. The results illuminate how the separation of powers operates in the often-overlooked arena of state administrative law."
+
+- title: "Congressional Oversight Hearings and Policy Control"
+  authors:
+    - "McGrath, Robert J."
+  year: 2013
+  type: article
+  journal: "Legislative Studies Quarterly"
+  volume: "38"
+  issue: "3"
+  pages: "353–380"
+  doi: "https://doi.org/10.1111/lsq.12017"
+  pdf: ""
+  data_url: ""
+  summary: "This study analyzes whether congressional oversight hearings actually change what federal agencies do, finding that agencies are more responsive to oversight when committees have jurisdiction over their budgets and when the oversight is sustained rather than episodic. The results suggest that the effectiveness of legislative oversight depends heavily on the institutional context in which it occurs."
+
+- title: "The Rise and Fall of Radical Civil Service Reform in the U.S. States"
+  authors:
+    - "McGrath, Robert J."
+  year: 2013
+  type: article
+  journal: "Public Administration Review"
+  volume: "73"
+  issue: "4"
+  pages: "638–649"
+  doi: "https://doi.org/10.1111/puar.12056"
+  pdf: ""
+  data_url: ""
+  summary: "This study traces the adoption and subsequent abandonment of radical civil service reforms — which stripped tenure protections from public employees — across the American states, finding that these reforms often failed to deliver promised efficiency gains and generated political backlash. The findings offer cautionary lessons for reformers who view deregulating public employment as a path to better government."
+
+- title: "Making Rules About Rulemaking: A Comparison of Presidential and Parliamentary Systems"
+  authors:
+    - "Jensen, Christian B."
+    - "Robert J. McGrath"
+  year: 2011
+  type: article
+  journal: "Political Research Quarterly"
+  volume: "64"
+  issue: "3"
+  pages: "656–667"
+  doi: "https://doi.org/10.1177/1065912910370684"
+  pdf: ""
+  data_url: ""
+  summary: "This comparative study examines why some democracies adopt formal procedures governing how executive agencies make rules while others do not, finding that presidential systems are more likely to enact administrative procedure laws because of the greater separation between executive and legislative branches. The results highlight how constitutional design shapes the development of the administrative state."
+
+- title: "Electoral Competition and the Frequency of Initiative Use in the U.S. States"
+  authors:
+    - "McGrath, Robert J."
+  year: 2011
+  type: article
+  journal: "American Politics Research"
+  volume: "39"
+  issue: "3"
+  pages: "611–638"
+  doi: "https://doi.org/10.1177/1532673X10388443"
+  pdf: ""
+  data_url: ""
+  summary: "This study examines why citizens in some states use the ballot initiative process more frequently than others, finding that electoral competition between parties is a key driver — when elections are competitive and legislative outcomes uncertain, interest groups turn more readily to direct democracy as an alternative policymaking venue. The results connect the initiative process to broader patterns of partisan competition."
+
+# ============================================================
+# BOOK CHAPTERS (1 entry)
+# ============================================================
+
+- title: "The Power of Institutional Design: Governors, Vetoes, and Legislative Outcomes"
+  authors:
+    - "McGrath, Robert J."
+    - "Jon C. Rogowski"
+    - "Josh M. Ryan"
+  year: 2015
+  type: chapter
+  journal: ""
+  book: "The American Governor: Power, Constraint, and Leadership in the States"
+  editors: "David P. Redlawsk"
+  publisher: "Palgrave MacMillan"
+  volume: ""
+  issue: ""
+  pages: ""
+  doi: ""
+  pdf: ""
+  data_url: ""
+  summary: "This chapter examines how the formal veto powers granted to governors by state constitutions shape legislative bargaining and outcomes, synthesizing evidence that institutional design — not just political skill or resources — fundamentally structures executive-legislative relations. The analysis contributes to broader debates about the role of rules and procedures in shaping political power."
+
+# ============================================================
+# WORKING PAPERS / WORKS IN PROGRESS (3 entries)
+# ============================================================
+
+- title: "The Value of State Legislative Committees"
+  authors:
+    - "McGrath, Robert J."
+    - "Josh M. Ryan"
+  year: null
+  type: working-paper
+  journal: ""
+  volume: ""
+  issue: ""
+  pages: ""
+  doi: ""
+  pdf: ""
+  data_url: ""
+  summary: "This working paper investigates whether state legislative committees add substantive value to the policymaking process or function primarily as procedural gatekeepers that screen bills without meaningfully shaping their content. The analysis draws on original data from multiple state legislatures to assess when and how committee deliberation matters."
+
+- title: "Who Benefits from Congressional Oversight of the Bureaucracy?"
+  authors:
+    - "McGrath, Robert J."
+    - "Jason A. MacDonald"
+    - "Nicole Kalaf-Hughes"
+  year: null
+  type: working-paper
+  journal: ""
+  volume: ""
+  issue: ""
+  pages: ""
+  doi: ""
+  pdf: ""
+  data_url: ""
+  summary: "This work-in-progress examines whether the benefits of congressional oversight — when Congress scrutinizes federal agencies — flow evenly to the public or are captured by organized interests that have privileged access to the oversight process. The project asks whose priorities get elevated when legislators turn a watchful eye on the bureaucracy."
+
+- title: "Collaboration in Crisis: State Politics, Policy Coordination, and the Opioid Epidemic"
+  authors:
+    - "McGrath, Robert J."
+  year: null
+  type: working-paper
+  journal: ""
+  volume: ""
+  issue: ""
+  pages: ""
+  doi: ""
+  pdf: ""
+  data_url: ""
+  summary: "This book manuscript examines how American states coordinated — or failed to coordinate — their policy responses to the opioid epidemic, exploring the political and institutional conditions that enabled or blocked collaborative action across state governments. The project offers a window into the challenges of governing a crisis that does not respect state borders."
