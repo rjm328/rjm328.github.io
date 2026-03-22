@@ -2,4 +2,146 @@
 title: "CV"
 ---
 
-The full academic CV will be available here soon.
+<div class="pub-buttons" style="margin-bottom: 2rem;">
+<a href="RJM-CV-v.oct25.pdf" class="btn btn-outline-secondary btn-sm" download>
+  Download CV (PDF)
+</a>
+</div>
+
+## Education
+
+::: {.cv-section}
+
+::: {.cv-entry}
+[**Ph.D.**, Political Science, The University of Iowa, July 2011]{.cv-entry-title}
+
+Dissertation: *Strategic Oversight and the Institutional Determinants of Legislative Policy Control*
+
+Committee: Frederick J. Boehmke (Chair), Douglas Dion, Christian B. Jensen, Raymond G. Riezman, and Charles R. Shipan (University of Michigan)
+:::
+
+::: {.cv-entry}
+[**B.A.**, Political Science & Philosophy, Saint Peter's College, 2004]{.cv-entry-title}
+:::
+
+:::
+
+## Academic Positions
+
+::: {.cv-section}
+
+**George Mason University** — Fairfax, Virginia
+
+::: {.cv-entry}
+[Director of Political Science and Public Policy PhD Programs, Schar School]{.cv-entry-title}
+[2025 -- present]{.cv-entry-meta}
+:::
+
+::: {.cv-entry}
+[Associate Professor, Schar School]{.cv-entry-title}
+[2017 -- present]{.cv-entry-meta}
+:::
+
+::: {.cv-entry}
+[Director of Undergraduate Programs, Schar School]{.cv-entry-title}
+[2018 -- 2021]{.cv-entry-meta}
+:::
+
+::: {.cv-entry}
+[Assistant Professor, Schar School]{.cv-entry-title}
+[2014 -- 2017]{.cv-entry-meta}
+:::
+
+::: {.cv-entry}
+[Assistant Professor, Department of Public and International Affairs]{.cv-entry-title}
+[2011 -- 2014]{.cv-entry-meta}
+:::
+
+**University of Michigan** — Ann Arbor, Michigan
+
+::: {.cv-entry}
+[Robert Wood Johnson Foundation Scholar in Health Policy Research]{.cv-entry-title}
+[2013 -- 2015]{.cv-entry-meta}
+:::
+
+:::
+
+## Publications
+
+::: {.cv-section}
+
+22 peer-reviewed articles, 1 book chapter, and 3 working papers and works in progress.
+
+[View full publications list](/publications.html){.btn .btn-outline-secondary .btn-sm}
+
+### Book Reviews
+
+::: {.cv-entry}
+Review of Steven Rogers's *Accountability in State Legislatures* for *Publius*, Volume 55, No. 2 (Spring 2025)
+:::
+
+::: {.cv-entry}
+Review of Ben Merriman's *Conservative Innovators* for *JPART*, Volume 30, No. 2 (April 2020)
+:::
+
+::: {.cv-entry}
+Review of James M. Curry's *Legislating in the Dark* for *The Journal of Politics*, Volume 78, No. 2 (April 2016)
+:::
+
+:::
+
+## Awards & Fellowships
+
+::: {.cv-section}
+
+### Research Awards
+
+::: {.cv-entry}
+*State Politics and Policy Quarterly Award* (State Politics and Policy Section, APSA) for "Experts, Amateurs, and Bureaucratic Influence in the American States," with Graeme Boushey, 2015
+:::
+
+### Teaching Awards
+
+::: {.cv-entry}
+Outstanding Teaching Award, Schar School of Policy and Government, 2023
+:::
+
+::: {.cv-entry}
+OSCAR Mentoring Excellence Award, George Mason University, 2022
+:::
+
+### Grants & Fellowships
+
+::: {.cv-entry}
+NSF Collaborative Research (RIDIR): "DAPPR: Diffusion Analytics for Public Policy Research," with Frederick J. Boehmke, Bruce A. Desmarais, William W. Franko, Jeffrey J. Harden, Yu-Ru Lin, and Jason Windett. Oct 1, 2016 -- Sep 30, 2019. $808,128
+:::
+
+::: {.cv-entry}
+Robert Wood Johnson Foundation Scholars in Health Policy Research Fellowship (University of Michigan site), 2013 -- 2015
+:::
+
+::: {.cv-entry}
+"The American Governor: Politics, Policy, Power and Leadership" Research Grant, Center on the American Governor -- Eagleton Institute of Politics (Rutgers University), with Jon C. Rogowski and Josh M. Ryan, 2012. $4,980
+:::
+
+::: {.cv-entry}
+Graduate College Summer Fellowship, University of Iowa, 2009
+:::
+
+::: {.cv-entry}
+NSF award to attend EITM summer institute, University of Michigan, 2009
+:::
+
+::: {.cv-entry}
+NSF award to attend EITM summer institute, Washington University in St. Louis, 2008
+:::
+
+::: {.cv-entry}
+Foreign Language and Area Studies (FLAS) Summer Fellowship, Consortium in Latin American and Caribbean Studies at UNC-Duke, 2005
+:::
+
+::: {.cv-entry}
+Political Science Graduate Fellowship, University of Iowa, 2004 -- 2010
+:::
+
+:::
