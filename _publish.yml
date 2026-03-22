@@ -1,4 +1,3 @@
 - source: project
   gh-pages:
-    - id: gh-pages
-      url: https://rjm328.github.io/
+    - url: https://rjm328.github.io/
