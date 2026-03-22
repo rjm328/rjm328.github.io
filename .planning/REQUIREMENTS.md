@@ -32,13 +32,13 @@ Requirements for initial release. Each maps to roadmap phases.
 
 ### Design
 
-- [ ] **DSGN-01**: Distill.pub-inspired typography and layout (rich type scale, whitespace, content-forward)
-- [ ] **DSGN-02**: Responsive design works on mobile and desktop
-- [ ] **DSGN-03**: Clean navigation with 5-6 items (Home, Publications, CV, Contact)
+- [x] **DSGN-01**: Distill.pub-inspired typography and layout (rich type scale, whitespace, content-forward)
+- [x] **DSGN-02**: Responsive design works on mobile and desktop
+- [x] **DSGN-03**: Clean navigation with 5-6 items (Home, Publications, CV, Contact)
 
 ### Infrastructure
 
-- [ ] **INFR-01**: Static site built with Quarto, deployed to GitHub Pages
+- [x] **INFR-01**: Static site built with Quarto, deployed to GitHub Pages
 - [ ] **INFR-02**: Custom domain configured with HTTPS
 
 ## v2 Requirements
@@ -81,10 +81,10 @@ Which phases cover which requirements. Updated during roadmap creation.
 | CV-02 | Phase 3 | Pending |
 | CONT-01 | Phase 3 | Pending |
 | CONT-02 | Phase 3 | Pending |
-| DSGN-01 | Phase 1 | Pending |
-| DSGN-02 | Phase 1 | Pending |
-| DSGN-03 | Phase 1 | Pending |
-| INFR-01 | Phase 1 | Pending |
+| DSGN-01 | Phase 1 | Complete |
+| DSGN-02 | Phase 1 | Complete |
+| DSGN-03 | Phase 1 | Complete |
+| INFR-01 | Phase 1 | Complete |
 | INFR-02 | Phase 1 | Pending |
 
 **Coverage:**
