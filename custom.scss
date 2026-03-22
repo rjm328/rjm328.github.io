@@ -35,3 +35,49 @@ body {
     margin-top: 1.5rem;
   }
 }
+
+/* Publication entries */
+.pub-entry {
+  margin-bottom: 2rem;
+  padding-bottom: 1.5rem;
+  border-bottom: 1px solid #EDE9E4;
+}
+
+.pub-entry:last-child {
+  border-bottom: none;
+}
+
+.pub-buttons {
+  margin: 0.5rem 0;
+  display: flex;
+  gap: 0.5rem;
+  flex-wrap: wrap;
+}
+
+/* Override Bootstrap btn-outline-secondary to match terracotta link color */
+.pub-buttons .btn-outline-secondary {
+  color: #8B5E3C;
+  border-color: #8B5E3C;
+  font-family: "DM Sans", system-ui, sans-serif;
+  font-size: 0.85rem;
+}
+
+.pub-buttons .btn-outline-secondary:hover {
+  background-color: #8B5E3C;
+  border-color: #8B5E3C;
+  color: #FAF8F5;
+}
+
+/* Working papers section — left accent bar for visual distinction (PUBL-03) */
+.working-papers {
+  border-left: 3px solid #C4813D;
+  padding-left: 1.25rem;
+}
+
+/* Plain-language summary — italic, slightly muted */
+.pub-entry .pub-summary {
+  color: #6B5E55;
+  font-size: 0.95rem;
+  font-style: italic;
+  margin-top: 0.25rem;
+}
