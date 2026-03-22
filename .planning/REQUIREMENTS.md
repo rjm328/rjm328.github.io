@@ -1,0 +1,97 @@
+# Requirements: Academic Portfolio Website
+
+**Defined:** 2026-03-22
+**Core Value:** Visitors can quickly find and navigate to the author's scholarly publications and data work, presented in a way that's credible to academics and accessible to everyone.
+
+## v1 Requirements
+
+Requirements for initial release. Each maps to roadmap phases.
+
+### Identity
+
+- [ ] **IDEN-01**: User can view about/bio page with professional photo, affiliation, and background
+- [ ] **IDEN-02**: Homepage displays 3-5 sentence research interests summary
+- [ ] **IDEN-03**: Each publication has a plain-language summary accessible to non-academic visitors
+
+### Publications
+
+- [ ] **PUBL-01**: Publications page lists works grouped by type (peer-reviewed articles, book chapters, working papers)
+- [ ] **PUBL-02**: Each publication links to DOI and/or PDF where available
+- [ ] **PUBL-03**: Working papers / preprints displayed as a distinct section
+- [ ] **PUBL-04**: Publications link to associated Dataverse/ICPSR datasets where applicable
+
+### CV
+
+- [ ] **CV-01**: CV page displays academic CV viewable in the browser
+- [ ] **CV-02**: Visitor can download CV as PDF
+
+### Contact
+
+- [ ] **CONT-01**: Contact page displays email address
+- [ ] **CONT-02**: Contact page links to ORCID, Google Scholar, and other professional profiles
+
+### Design
+
+- [ ] **DSGN-01**: Distill.pub-inspired typography and layout (rich type scale, whitespace, content-forward)
+- [ ] **DSGN-02**: Responsive design works on mobile and desktop
+- [ ] **DSGN-03**: Clean navigation with 5-6 items (Home, Publications, CV, Contact)
+
+### Infrastructure
+
+- [ ] **INFR-01**: Static site built with Quarto, deployed to GitHub Pages
+- [ ] **INFR-02**: Custom domain configured with HTTPS
+
+## v2 Requirements
+
+Deferred to future release. Tracked but not in current roadmap.
+
+### Content
+
+- **MEDIA-01**: Media mentions / press section with past coverage
+- **TEACH-01**: Teaching page with syllabi and course descriptions
+- **SPEAK-01**: Speaking engagements page
+
+## Out of Scope
+
+| Feature | Reason |
+|---------|--------|
+| Separate data projects page | Dataverse/ICPSR links integrated directly into publications |
+| Blog / writing section | High maintenance burden; not requested for v1 |
+| Interactive data visualizations on-site | Data hosted on external platforms; no need to duplicate |
+| CMS or admin panel | Static site; content managed via code/files |
+| User accounts or authentication | Public-facing read-only site |
+| Comment sections or contact forms | Email link is sufficient; avoids server dependency |
+| Analytics / visitor tracking | Privacy implications; low value for primary goal |
+| Google Scholar auto-sync | Unofficial API is brittle; manually curated list is more reliable |
+
+## Traceability
+
+Which phases cover which requirements. Updated during roadmap creation.
+
+| Requirement | Phase | Status |
+|-------------|-------|--------|
+| IDEN-01 | — | Pending |
+| IDEN-02 | — | Pending |
+| IDEN-03 | — | Pending |
+| PUBL-01 | — | Pending |
+| PUBL-02 | — | Pending |
+| PUBL-03 | — | Pending |
+| PUBL-04 | — | Pending |
+| CV-01 | — | Pending |
+| CV-02 | — | Pending |
+| CONT-01 | — | Pending |
+| CONT-02 | — | Pending |
+| DSGN-01 | — | Pending |
+| DSGN-02 | — | Pending |
+| DSGN-03 | — | Pending |
+| INFR-01 | — | Pending |
+| INFR-02 | — | Pending |
+
+**Coverage:**
+- v1 requirements: 16 total
+- Mapped to phases: 0
+- Unmapped: 16 ⚠️
+
+---
+*Requirements defined: 2026-03-22*
+*Last updated: 2026-03-22 after initial definition*
