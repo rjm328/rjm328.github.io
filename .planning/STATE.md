@@ -1,16 +1,16 @@
 ---
 gsd_state_version: 1.0
-milestone: v1.0
-milestone_name: milestone
+milestone: v1.1
+milestone_name: Polish & Data
 status: planning
-stopped_at: Completed 04-02-PLAN.md — site launched, v1.0 milestone complete
-last_updated: "2026-03-22T23:09:24.698Z"
-last_activity: 2026-03-22 — Roadmap created, all 16 v1 requirements mapped to 4 phases
+stopped_at: null
+last_updated: "2026-03-22T23:30:00.000Z"
+last_activity: 2026-03-22 — Milestone v1.1 started
 progress:
-  total_phases: 4
-  completed_phases: 4
-  total_plans: 8
-  completed_plans: 8
+  total_phases: 0
+  completed_phases: 0
+  total_plans: 0
+  completed_plans: 0
   percent: 0
 ---
 
@@ -21,14 +21,14 @@ progress:
 See: .planning/PROJECT.md (updated 2026-03-22)
 
 **Core value:** Visitors can quickly find and navigate to the author's scholarly publications and data work, presented in a way that's credible to academics and accessible to everyone.
-**Current focus:** Phase 1 — Foundation
+**Current focus:** v1.1 — Polish & Data (defining requirements)
 
 ## Current Position
 
-Phase: 1 of 4 (Foundation)
-Plan: 0 of TBD in current phase
-Status: Ready to plan
-Last activity: 2026-03-22 — Roadmap created, all 16 v1 requirements mapped to 4 phases
+Phase: Not started (defining requirements)
+Plan: —
+Status: Defining requirements
+Last activity: 2026-03-22 — Milestone v1.1 started
 
 Progress: [░░░░░░░░░░] 0%
 

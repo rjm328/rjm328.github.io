@@ -24,9 +24,24 @@ Visitors can quickly find and navigate to the author's scholarly publications an
 
 ### Active
 
-- [ ] Custom domain with HTTPS (domain not yet purchased)
-- [ ] PDF self-hosting (author-accepted manuscripts)
-- [ ] Additional Dataverse/ICPSR data links as deposits become public
+- [ ] Landing page hero redesign — shortened subtitle, Director info separated
+- [ ] Publications collapsible sections by type and year, most recent expanded by default
+- [ ] CV page timeline-style layout with better section spacing and entry formatting
+- [ ] General design polish — typography, spacing, colors across all pages
+- [ ] Deeper Dataverse/ICPSR data link search for remaining publications
+- [ ] Custom domain with HTTPS (domain not yet purchased — deferred to v1.2)
+- [ ] PDF self-hosting (author-accepted manuscripts — deferred to v1.2)
+
+## Current Milestone: v1.1 Polish & Data
+
+**Goal:** Refine the site's visual quality and expand data repository links
+
+**Target features:**
+- Landing page hero redesign (shortened subtitle + Director info)
+- Collapsible publications sections (by type, then year)
+- Timeline-style CV layout
+- General typography/spacing/color polish
+- Deeper data repository link search
 
 ### Out of Scope
 
@@ -68,4 +83,4 @@ Visitors can quickly find and navigate to the author's scholarly publications an
 | Custom domain deferred | Domain not purchased; site works at github.io URL | — Pending |
 
 ---
-*Last updated: 2026-03-22 after v1.0 milestone*
+*Last updated: 2026-03-22 after v1.1 milestone start*
