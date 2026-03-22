@@ -3,14 +3,14 @@ gsd_state_version: 1.0
 milestone: v1.0
 milestone_name: milestone
 status: planning
-stopped_at: Completed 03-cv-and-contact-01-PLAN.md
-last_updated: "2026-03-22T19:29:36.532Z"
+stopped_at: Completed 03-cv-and-contact-02-PLAN.md
+last_updated: "2026-03-22T19:52:44.616Z"
 last_activity: 2026-03-22 — Roadmap created, all 16 v1 requirements mapped to 4 phases
 progress:
   total_phases: 4
-  completed_phases: 2
+  completed_phases: 3
   total_plans: 6
-  completed_plans: 5
+  completed_plans: 6
   percent: 0
 ---
 
@@ -56,6 +56,7 @@ Progress: [░░░░░░░░░░] 0%
 | Phase 02-publications-and-data P02 | 5 | 1 tasks | 1 files |
 | Phase 02-publications-and-data P02 | 35 | 2 tasks | 1 files |
 | Phase 03-cv-and-contact P01 | 8 | 2 tasks | 2 files |
+| Phase 03-cv-and-contact P02 | 15 | 2 tasks | 1 files |
 
 ## Accumulated Context
 
@@ -81,6 +82,8 @@ Recent decisions affecting current work:
 - [Phase 02-publications-and-data]: All original AI-generated DOIs were hallucinated and required CrossRef API correction — future YAML edits should verify DOIs before deploying
 - [Phase 03-cv-and-contact]: Book reviews included as subsection under Publications in browser CV (they are publications, just not tracked in publications.yml)
 - [Phase 03-cv-and-contact]: Publication count in cv.qmd is manually maintained — must update if publications.yml changes
+- [Phase 03-cv-and-contact]: LinkedIn URL confirmed as https://www.linkedin.com/in/rjmcgrath/ (user-supplied at checkpoint)
+- [Phase 03-cv-and-contact]: Office hours approved as-is: by appointment with email-to-arrange note
 
 ### Pending Todos
 
@@ -93,6 +96,6 @@ None yet.
 
 ## Session Continuity
 
-Last session: 2026-03-22T19:29:36.526Z
-Stopped at: Completed 03-cv-and-contact-01-PLAN.md
+Last session: 2026-03-22T19:52:44.609Z
+Stopped at: Completed 03-cv-and-contact-02-PLAN.md
 Resume file: None

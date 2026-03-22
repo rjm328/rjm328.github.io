@@ -27,8 +27,8 @@ Requirements for initial release. Each maps to roadmap phases.
 
 ### Contact
 
-- [ ] **CONT-01**: Contact page displays email address
-- [ ] **CONT-02**: Contact page links to ORCID, Google Scholar, and other professional profiles
+- [x] **CONT-01**: Contact page displays email address
+- [x] **CONT-02**: Contact page links to ORCID, Google Scholar, and other professional profiles
 
 ### Design
 
@@ -79,8 +79,8 @@ Which phases cover which requirements. Updated during roadmap creation.
 | PUBL-04 | Phase 2 | Complete |
 | CV-01 | Phase 3 | Complete |
 | CV-02 | Phase 3 | Complete |
-| CONT-01 | Phase 3 | Pending |
-| CONT-02 | Phase 3 | Pending |
+| CONT-01 | Phase 3 | Complete |
+| CONT-02 | Phase 3 | Complete |
 | DSGN-01 | Phase 1 | Complete |
 | DSGN-02 | Phase 1 | Complete |
 | DSGN-03 | Phase 1 | Complete |
