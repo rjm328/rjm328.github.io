@@ -71,7 +71,7 @@ Plans:
   1. All 26 publications have been checked against Dataverse, ICPSR, and journal supplementary materials for associated datasets
   2. Every discovered data repository URL is populated in publications.yml
   3. Publications with verified data links display a [Data] button that opens the correct repository URL
-**Plans:** 1/1 plans complete
+**Plans:** 2/2 plans complete
 Plans:
 - [x] 08-01-PLAN.md — Deep search all publications for data repository deposits and user review (3 new deposits found, DATA-01/DATA-02 satisfied)
 
@@ -86,4 +86,4 @@ Plans:
 | 5. Hero & Design Polish | 2/2 | Complete   | 2026-03-23 | - |
 | 6. Publications Navigation | 1/1 | Complete   | 2026-03-23 | - |
 | 7. CV Timeline Layout | v1.1 | 1/1 | Complete | 2026-03-23 |
-| 8. Data Repository Links | v1.1 | 1/1 | Complete | 2026-03-23 |
+| 8. Data Repository Links | 2/2 | Complete   | 2026-03-23 | 2026-03-23 |

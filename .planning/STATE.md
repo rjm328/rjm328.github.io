@@ -2,16 +2,16 @@
 gsd_state_version: 1.0
 milestone: v1.1
 milestone_name: Polish & Data
-status: planning
-stopped_at: Completed 08-data-repository-links-01-PLAN.md
-last_updated: "2026-03-23T00:00:00.000Z"
-last_activity: 2026-03-23 — Phase 08 Plan 01 complete; 3 new Dataverse deposits found and linked (DATA-01/DATA-02 satisfied)
+status: completed
+stopped_at: Completed 08-data-repository-links-02-PLAN.md
+last_updated: "2026-03-23T12:34:10.010Z"
+last_activity: 2026-03-23 — 08-01 complete; 3 Dataverse deposits added; DATA-01/DATA-02 satisfied
 progress:
   total_phases: 4
-  completed_phases: 3
-  total_plans: 4
-  completed_plans: 4
-  percent: 0
+  completed_phases: 4
+  total_plans: 6
+  completed_plans: 6
+  percent: 100
 ---
 
 # Project State
@@ -58,6 +58,7 @@ Progress: [██████████] 100% (v1.1 phases 5-8 complete)
 | Phase 06-publications-navigation P01 | 3 | 2 tasks | 2 files |
 | Phase 07-cv-timeline-layout P01 | 25 | 3 tasks | 2 files |
 | Phase 08-data-repository-links P01 | 60 | 2 tasks | 2 files |
+| Phase 08-data-repository-links P02 | 10 | 2 tasks | 2 files |
 
 ## Accumulated Context
 
@@ -78,6 +79,7 @@ Recent decisions affecting current work:
 - [Phase 07-cv-timeline-layout]: CSS Grid two-column CV layout: 120px date column + 1fr content; institution subheadings as full-width .cv-institution divs; Publications section kept outside timeline (prose summary only)
 - [Phase 07-cv-timeline-layout]: git worktree used for gh-pages deployment — quarto publish --no-prompt fails with 'Multiple previous publishes exist' (known issue since Phase 5)
 - [Phase 08-data-repository-links]: 3 new Dataverse deposits found (High Hurdles DVN/SR0IQI, Listen to Me DVN/GJNX4T, Veto Override DVN/XW0D8Q); ICPSR returned 503 throughout; journal pages behind bot protection; total data coverage 6 of 26 publications; DATA-01/DATA-02 satisfied
+- [Phase 08-data-repository-links]: git worktree used for gh-pages deployment — quarto publish --no-prompt fails with 'Multiple previous publishes exist' (known issue since Phase 5)
 
 ### Pending Todos
 
@@ -89,6 +91,6 @@ None — DATA-01/DATA-02 resolved in Phase 08.
 
 ## Session Continuity
 
-Last session: 2026-03-23T00:00:00.000Z
-Stopped at: Completed 08-data-repository-links-01-PLAN.md
+Last session: 2026-03-23T12:34:09.999Z
+Stopped at: Completed 08-data-repository-links-02-PLAN.md
 Resume file: None
