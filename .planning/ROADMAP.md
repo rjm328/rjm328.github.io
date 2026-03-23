@@ -3,7 +3,7 @@
 ## Milestones
 
 - ✅ **v1.0 Academic Portfolio** - Phases 1-4 (shipped 2026-03-22)
-- 🚧 **v1.1 Polish & Data** - Phases 5-8 (in progress)
+- ✅ **v1.1 Polish & Data** - Phases 5-8 (completed 2026-03-23)
 
 ## Phases
 
@@ -15,14 +15,14 @@ See MILESTONES.md for accomplishments.
 
 </details>
 
-### 🚧 v1.1 Polish & Data (In Progress)
+### ✅ v1.1 Polish & Data (Completed 2026-03-23)
 
 **Milestone Goal:** Refine the site's visual quality and expand data repository links
 
 - [x] **Phase 5: Hero & Design Polish** - Landing page hero redesign and sitewide typography/spacing refinements (completed 2026-03-23)
 - [x] **Phase 6: Publications Navigation** - Collapsible publication sections grouped by type and year (completed 2026-03-23)
-- [ ] **Phase 7: CV Timeline Layout** - Timeline-style CV with clear visual hierarchy
-- [ ] **Phase 8: Data Repository Links** - Thorough data link search and [Data] button population
+- [x] **Phase 7: CV Timeline Layout** - Timeline-style CV with clear visual hierarchy (completed 2026-03-23)
+- [x] **Phase 8: Data Repository Links** - Thorough data link search and [Data] button population (completed 2026-03-23)
 
 ## Phase Details
 
@@ -71,10 +71,9 @@ Plans:
   1. All 26 publications have been checked against Dataverse, ICPSR, and journal supplementary materials for associated datasets
   2. Every discovered data repository URL is populated in publications.yml
   3. Publications with verified data links display a [Data] button that opens the correct repository URL
-**Plans:** 2 plans
+**Plans:** 1/1 plans complete
 Plans:
-- [ ] 08-01-PLAN.md — Deep search all publications for data repository deposits and user review
-- [ ] 08-02-PLAN.md — Build, verify, and deploy updated publications page
+- [x] 08-01-PLAN.md — Deep search all publications for data repository deposits and user review (3 new deposits found, DATA-01/DATA-02 satisfied)
 
 ## Progress
 
@@ -86,5 +85,5 @@ Plans:
 | 1-4. Foundation-Deployment | v1.0 | 8/8 | Complete | 2026-03-22 |
 | 5. Hero & Design Polish | 2/2 | Complete   | 2026-03-23 | - |
 | 6. Publications Navigation | 1/1 | Complete   | 2026-03-23 | - |
-| 7. CV Timeline Layout | v1.1 | 0/1 | Planned | - |
-| 8. Data Repository Links | v1.1 | 0/2 | Planned | - |
+| 7. CV Timeline Layout | v1.1 | 1/1 | Complete | 2026-03-23 |
+| 8. Data Repository Links | v1.1 | 1/1 | Complete | 2026-03-23 |

@@ -3,9 +3,9 @@ gsd_state_version: 1.0
 milestone: v1.1
 milestone_name: Polish & Data
 status: planning
-stopped_at: Completed 07-cv-timeline-layout-01-PLAN.md
-last_updated: "2026-03-23T01:52:23.477Z"
-last_activity: 2026-03-22 — v1.1 roadmap created; v1.0 shipped (phases 1-4, 8 plans)
+stopped_at: Completed 08-data-repository-links-01-PLAN.md
+last_updated: "2026-03-23T00:00:00.000Z"
+last_activity: 2026-03-23 — Phase 08 Plan 01 complete; 3 new Dataverse deposits found and linked (DATA-01/DATA-02 satisfied)
 progress:
   total_phases: 4
   completed_phases: 3
@@ -25,12 +25,12 @@ See: .planning/PROJECT.md (updated 2026-03-22)
 
 ## Current Position
 
-Phase: 5 of 8 (Hero & Design Polish)
-Plan: 0 of ? in current phase
-Status: Ready to plan
-Last activity: 2026-03-22 — v1.1 roadmap created; v1.0 shipped (phases 1-4, 8 plans)
+Phase: 8 of 8 (Data Repository Links)
+Plan: 1 of 1 in current phase — COMPLETE
+Status: Phase complete
+Last activity: 2026-03-23 — 08-01 complete; 3 Dataverse deposits added; DATA-01/DATA-02 satisfied
 
-Progress: [░░░░░░░░░░] 0% (v1.1 phases 5-8 not yet started)
+Progress: [██████████] 100% (v1.1 phases 5-8 complete)
 
 ## Performance Metrics
 
@@ -57,6 +57,7 @@ Progress: [░░░░░░░░░░] 0% (v1.1 phases 5-8 not yet started)
 | Phase 05-hero-design-polish P02 | 45 | 3 tasks | 1 files |
 | Phase 06-publications-navigation P01 | 3 | 2 tasks | 2 files |
 | Phase 07-cv-timeline-layout P01 | 25 | 3 tasks | 2 files |
+| Phase 08-data-repository-links P01 | 60 | 2 tasks | 2 files |
 
 ## Accumulated Context
 
@@ -76,6 +77,7 @@ Recent decisions affecting current work:
 - [Phase 06-publications-navigation]: Quarto fenced div syntax (::: {.pub-entry}) works correctly inside raw HTML details elements — no conversion to raw HTML divs needed
 - [Phase 07-cv-timeline-layout]: CSS Grid two-column CV layout: 120px date column + 1fr content; institution subheadings as full-width .cv-institution divs; Publications section kept outside timeline (prose summary only)
 - [Phase 07-cv-timeline-layout]: git worktree used for gh-pages deployment — quarto publish --no-prompt fails with 'Multiple previous publishes exist' (known issue since Phase 5)
+- [Phase 08-data-repository-links]: 3 new Dataverse deposits found (High Hurdles DVN/SR0IQI, Listen to Me DVN/GJNX4T, Veto Override DVN/XW0D8Q); ICPSR returned 503 throughout; journal pages behind bot protection; total data coverage 6 of 26 publications; DATA-01/DATA-02 satisfied
 
 ### Pending Todos
 
@@ -83,10 +85,10 @@ None yet.
 
 ### Blockers/Concerns
 
-- DATA-01/DATA-02: Data link search is manual research across Dataverse, ICPSR, and journal supplementary pages — coverage is bounded by what's publicly findable
+None — DATA-01/DATA-02 resolved in Phase 08.
 
 ## Session Continuity
 
-Last session: 2026-03-23T01:51:25.696Z
-Stopped at: Completed 07-cv-timeline-layout-01-PLAN.md
+Last session: 2026-03-23T00:00:00.000Z
+Stopped at: Completed 08-data-repository-links-01-PLAN.md
 Resume file: None

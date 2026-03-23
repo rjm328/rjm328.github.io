@@ -29,8 +29,8 @@ Requirements for polish and data improvements. Each maps to roadmap phases.
 
 ### Data Links
 
-- [ ] **DATA-01**: Thorough search of Dataverse, ICPSR, journal supplementary materials for all 26 publications
-- [ ] **DATA-02**: All discovered data repository URLs populated in publications.yml and rendered with [Data] buttons
+- [x] **DATA-01**: Thorough search of Dataverse, ICPSR, journal supplementary materials for all 26 publications
+- [x] **DATA-02**: All discovered data repository URLs populated in publications.yml and rendered with [Data] buttons
 
 ## v1.2 Requirements
 
@@ -69,8 +69,8 @@ Which phases cover which requirements. Updated during roadmap creation.
 | PUBS-03 | Phase 6 | Complete |
 | CVFX-01 | Phase 7 | Complete |
 | CVFX-02 | Phase 7 | Complete |
-| DATA-01 | Phase 8 | Pending |
-| DATA-02 | Phase 8 | Pending |
+| DATA-01 | Phase 8 | Complete |
+| DATA-02 | Phase 8 | Complete |
 
 **Coverage:**
 - v1.1 requirements: 10 total
