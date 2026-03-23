@@ -19,7 +19,7 @@ See MILESTONES.md for accomplishments.
 
 **Milestone Goal:** Refine the site's visual quality and expand data repository links
 
-- [ ] **Phase 5: Hero & Design Polish** - Landing page hero redesign and sitewide typography/spacing refinements
+- [x] **Phase 5: Hero & Design Polish** - Landing page hero redesign and sitewide typography/spacing refinements (completed 2026-03-23)
 - [ ] **Phase 6: Publications Navigation** - Collapsible publication sections grouped by type and year
 - [ ] **Phase 7: CV Timeline Layout** - Timeline-style CV with clear visual hierarchy
 - [ ] **Phase 8: Data Repository Links** - Thorough data link search and [Data] button population
@@ -34,7 +34,7 @@ See MILESTONES.md for accomplishments.
   1. Landing page subtitle reads "Associate Professor, Schar School of Policy and Government, George Mason University" with the Director line visually separated below
   2. Name, title, and Director line have proper spacing — no crowding or misalignment
   3. Typography, spacing, and color are consistent and polished across About, Publications, CV, and Contact pages
-**Plans:** 1/2 plans executed
+**Plans:** 2/2 plans complete
 Plans:
 - [ ] 05-01-PLAN.md — Hero subtitle redesign and Director line separation
 - [ ] 05-02-PLAN.md — Sitewide typography, spacing, and color polish
@@ -77,7 +77,7 @@ Plans:
 | Phase | Milestone | Plans Complete | Status | Completed |
 |-------|-----------|----------------|--------|-----------|
 | 1-4. Foundation-Deployment | v1.0 | 8/8 | Complete | 2026-03-22 |
-| 5. Hero & Design Polish | 1/2 | In Progress|  | - |
+| 5. Hero & Design Polish | 2/2 | Complete   | 2026-03-23 | - |
 | 6. Publications Navigation | v1.1 | 0/? | Not started | - |
 | 7. CV Timeline Layout | v1.1 | 0/? | Not started | - |
 | 8. Data Repository Links | v1.1 | 0/? | Not started | - |

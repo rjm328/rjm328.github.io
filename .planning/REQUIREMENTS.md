@@ -25,7 +25,7 @@ Requirements for polish and data improvements. Each maps to roadmap phases.
 
 ### Design Polish
 
-- [ ] **DSGN-04**: Typography, spacing, and color refinements across all pages for a more polished academic aesthetic
+- [x] **DSGN-04**: Typography, spacing, and color refinements across all pages for a more polished academic aesthetic
 
 ### Data Links
 
@@ -63,7 +63,7 @@ Which phases cover which requirements. Updated during roadmap creation.
 |-------------|-------|--------|
 | HERO-01 | Phase 5 | Complete |
 | HERO-02 | Phase 5 | Complete |
-| DSGN-04 | Phase 5 | Pending |
+| DSGN-04 | Phase 5 | Complete |
 | PUBS-01 | Phase 6 | Pending |
 | PUBS-02 | Phase 6 | Pending |
 | PUBS-03 | Phase 6 | Pending |
