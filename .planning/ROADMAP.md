@@ -48,7 +48,9 @@ Plans:
   2. Within each section, entries are grouped by year with their own collapsible year subgroups
   3. The most recent year group (2025/2026/Forthcoming) is expanded by default when the page loads; all other year groups and sections are collapsed
   4. Collapsing and expanding sections works correctly across Chrome, Firefox, and Safari
-**Plans**: TBD
+**Plans:** 1 plan
+Plans:
+- [ ] 06-01-PLAN.md — Collapsible sections and year-grouped entries with details/summary
 
 ### Phase 7: CV Timeline Layout
 **Goal**: Visitors can read the CV with a clear visual structure that separates dates from content
@@ -78,6 +80,6 @@ Plans:
 |-------|-----------|----------------|--------|-----------|
 | 1-4. Foundation-Deployment | v1.0 | 8/8 | Complete | 2026-03-22 |
 | 5. Hero & Design Polish | 2/2 | Complete   | 2026-03-23 | - |
-| 6. Publications Navigation | v1.1 | 0/? | Not started | - |
+| 6. Publications Navigation | v1.1 | 0/1 | Planning complete | - |
 | 7. CV Timeline Layout | v1.1 | 0/? | Not started | - |
 | 8. Data Repository Links | v1.1 | 0/? | Not started | - |
