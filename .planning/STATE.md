@@ -4,7 +4,7 @@ milestone: v1.1
 milestone_name: Polish & Data
 status: completed
 stopped_at: Completed 08-data-repository-links-02-PLAN.md
-last_updated: "2026-03-23T12:34:10.010Z"
+last_updated: "2026-03-23T12:35:55.733Z"
 last_activity: 2026-03-23 — 08-01 complete; 3 Dataverse deposits added; DATA-01/DATA-02 satisfied
 progress:
   total_phases: 4
