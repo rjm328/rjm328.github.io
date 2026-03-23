@@ -59,7 +59,9 @@ Plans:
 **Success Criteria** (what must be TRUE):
   1. CV entries display with dates on the left and content details on the right in a consistent two-column timeline layout
   2. CV sections have visible separators and adequate vertical spacing so each section is clearly distinct from the next
-**Plans**: TBD
+**Plans:** 1 plan
+Plans:
+- [ ] 07-01-PLAN.md — Timeline-style two-column layout with CSS Grid and enhanced section separators
 
 ### Phase 8: Data Repository Links
 **Goal**: All discoverable data associated with the author's publications is linked directly from the publications page
@@ -81,5 +83,5 @@ Plans:
 | 1-4. Foundation-Deployment | v1.0 | 8/8 | Complete | 2026-03-22 |
 | 5. Hero & Design Polish | 2/2 | Complete   | 2026-03-23 | - |
 | 6. Publications Navigation | 1/1 | Complete   | 2026-03-23 | - |
-| 7. CV Timeline Layout | v1.1 | 0/? | Not started | - |
+| 7. CV Timeline Layout | v1.1 | 0/1 | Planned | - |
 | 8. Data Repository Links | v1.1 | 0/? | Not started | - |
