@@ -4,7 +4,13 @@ title: "Publications"
 
 Publications are listed by type in reverse chronological order. All coauthors are listed in full.
 
-## Peer-Reviewed Articles
+<details class="pub-section">
+<summary>Peer-Reviewed Articles</summary>
+<div class="pub-section-content">
+
+<details class="year-group" open>
+<summary>Forthcoming</summary>
+<div class="year-group-content">
 
 ::: {.pub-entry}
 McGrath, Robert J., Josh M. Ryan, and Jatia Wrighten. Forthcoming. "High Hurdles: Legislative Professionalism and the Effectiveness of Women State Legislators." *The Journal of Politics*.
@@ -25,6 +31,13 @@ McGrath, Robert J. Forthcoming. "Shared Pain, Common Purpose: How Shared Problem
 
 <p class="pub-summary">This study investigates why members of Congress from different parties collaborate on opioid legislation, finding that when legislators represent communities equally devastated by the opioid crisis, shared problem status creates common ground for bipartisan cooperation.</p>
 :::
+
+</div>
+</details>
+
+<details class="year-group" open>
+<summary>2025</summary>
+<div class="year-group-content">
 
 ::: {.pub-entry}
 Chen, Wendy, William W. Franko, and Robert J. McGrath. 2025. "Occupational Licensing and Income Inequality in the States." *Journal of Policy Analysis and Management* 44(4): 1374–1393.
@@ -47,6 +60,13 @@ McGrath, Robert J. 2025. "American Federalism and Health Policy Spillovers: Insi
 <p class="pub-summary">This study uses the opioid epidemic as a lens to examine how health policies adopted in one state spill over into neighboring states under the American federal system. The findings reveal that state-level policy choices can export both benefits and harms across state borders, with implications for how we design intergovernmental health policy.</p>
 :::
 
+</div>
+</details>
+
+<details class="year-group">
+<summary>2024</summary>
+<div class="year-group-content">
+
 ::: {.pub-entry}
 Andolina, Molly A., Jeremy D. Mayer, and Robert J. McGrath. 2024. "Listen to Me: Quality of Communication and Intergenerational Political Socialization." *Political Research Quarterly* 77(2): 451–468.
 
@@ -56,6 +76,13 @@ Andolina, Molly A., Jeremy D. Mayer, and Robert J. McGrath. 2024. "Listen to Me:
 
 <p class="pub-summary">This study asks whether the quality — not just the quantity — of political conversations between parents and children shapes young people's political development. The findings show that when parents listen and engage respectfully, their children are more likely to absorb political attitudes and develop civic orientations.</p>
 :::
+
+</div>
+</details>
+
+<details class="year-group">
+<summary>2023</summary>
+<div class="year-group-content">
 
 ::: {.pub-entry}
 Boushey, Graeme, and Robert J. McGrath. 2023. "Rulemaking Speed in the U.S. States." *Journal of Public Administration Research and Theory* 34(2): 284–300.
@@ -68,6 +95,13 @@ Boushey, Graeme, and Robert J. McGrath. 2023. "Rulemaking Speed in the U.S. Stat
 <p class="pub-summary">This study examines why state agencies complete rulemaking at different speeds, analyzing thousands of regulatory proceedings across all fifty states. The findings identify political and institutional factors — including legislative oversight capacity and gubernatorial preferences — that systematically accelerate or slow the pace at which agencies translate statutory mandates into enforceable rules.</p>
 :::
 
+</div>
+</details>
+
+<details class="year-group">
+<summary>2020</summary>
+<div class="year-group-content">
+
 ::: {.pub-entry}
 Boushey, Graeme, and Robert J. McGrath. 2020. "Does Partisan Conflict Lead to Increased Bureaucratic Policymaking? Evidence from the American States." *Journal of Public Administration Research and Theory* 30(3): 432–447.
 
@@ -77,6 +111,13 @@ Boushey, Graeme, and Robert J. McGrath. 2020. "Does Partisan Conflict Lead to In
 
 <p class="pub-summary">This study tests whether partisan gridlock in state legislatures pushes policymaking into the hands of unelected bureaucrats, finding that agencies produce more rules when partisan conflict makes legislative compromise difficult. The results suggest that bureaucratic policymaking serves as a safety valve when elected politicians cannot agree.</p>
 :::
+
+</div>
+</details>
+
+<details class="year-group">
+<summary>2019</summary>
+<div class="year-group-content">
 
 ::: {.pub-entry}
 McGrath, Robert J., and Josh M. Ryan. 2019. "Party Effects in State Legislative Committees." *Legislative Studies Quarterly* 44(4): 553–592.
@@ -99,6 +140,13 @@ MacDonald, Jason A., and Robert J. McGrath. 2019. "A Race for the Regs: Unified 
 <p class="pub-summary">This study finds that federal agencies rush to complete regulations before unified government ends, exploiting statutory deadlines as an opportunity to lock in policy before a hostile incoming Congress can block or reverse their rules. The findings reveal a strategic dimension to bureaucratic timing that connects rulemaking pace to electoral cycles.</p>
 :::
 
+</div>
+</details>
+
+<details class="year-group">
+<summary>2018</summary>
+<div class="year-group-content">
+
 ::: {.pub-entry}
 McGrath, Robert J., Jon C. Rogowski, and Josh M. Ryan. 2018. "Veto Override Requirements and Executive Success." *Political Science Research and Methods* 6(1): 153–179.
 
@@ -108,6 +156,13 @@ McGrath, Robert J., Jon C. Rogowski, and Josh M. Ryan. 2018. "Veto Override Requ
 
 <p class="pub-summary">This study examines how the constitutional threshold required to override a gubernatorial veto affects executive bargaining power in state legislatures, finding that higher override thresholds give governors greater leverage to shape legislation before it reaches their desk. The results have broad implications for understanding how formal institutional rules translate into real political power.</p>
 :::
+
+</div>
+</details>
+
+<details class="year-group">
+<summary>2017</summary>
+<div class="year-group-content">
 
 ::: {.pub-entry}
 Lillvis, Denise F., and Robert J. McGrath. 2017. "Directing Discipline: State Medical Board Responsiveness to State Legislatures." *Journal of Health Politics, Policy and Law* 42(1): 123–165.
@@ -128,6 +183,13 @@ Boushey, Graeme, and Robert J. McGrath. 2017. "Experts, Amateurs, and Bureaucrat
 
 <p class="pub-summary">This study investigates who participates in state agency rulemaking proceedings and whose comments agencies respond to, finding that organized interests and professional experts exert greater influence over regulatory outcomes than ordinary citizens. The findings raise important questions about democratic accountability in the administrative state.</p>
 :::
+
+</div>
+</details>
+
+<details class="year-group">
+<summary>2016</summary>
+<div class="year-group-content">
 
 ::: {.pub-entry}
 MacDonald, Jason A., and Robert J. McGrath. 2016. "Retrospective Congressional Oversight and the Dynamics of Legislative Influence over the Bureaucracy." *Legislative Studies Quarterly* 41(4): 899–934.
@@ -169,6 +231,13 @@ Rhee Baum, Jeeyang, Christian B. Jensen, and Robert J. McGrath. 2016. "Constrain
 <p class="pub-summary">This study examines why parliamentary governments adopt administrative procedure acts (APAs) — laws that constrain executive agencies' rulemaking authority — finding that governing parties enact these constraints strategically when they anticipate losing power. The findings reveal that formal administrative law can serve as a tool for locking in policy and limiting future governments' discretion.</p>
 :::
 
+</div>
+</details>
+
+<details class="year-group">
+<summary>2015</summary>
+<div class="year-group-content">
+
 ::: {.pub-entry}
 McGrath, Robert J., Jon C. Rogowski, and Josh M. Ryan. 2015. "Gubernatorial Veto Powers and the Size of Legislative Coalitions." *Legislative Studies Quarterly* 40(4): 571–598.
 
@@ -178,6 +247,13 @@ McGrath, Robert J., Jon C. Rogowski, and Josh M. Ryan. 2015. "Gubernatorial Veto
 
 <p class="pub-summary">This study examines how the strength of the gubernatorial veto — determined by the constitutional threshold required to override it — shapes the size of legislative coalitions that pass bills in state legislatures. Governors with strong veto powers induce larger legislative majorities because legislators anticipate the need to withstand a potential override.</p>
 :::
+
+</div>
+</details>
+
+<details class="year-group">
+<summary>2013</summary>
+<div class="year-group-content">
 
 ::: {.pub-entry}
 McGrath, Robert J. 2013. "Legislatures, Courts, and Statutory Control of the Bureaucracy across the U.S. States." *State Politics and Policy Quarterly* 13(3): 373–397.
@@ -209,6 +285,13 @@ McGrath, Robert J. 2013. "The Rise and Fall of Radical Civil Service Reform in t
 <p class="pub-summary">This study traces the adoption and subsequent abandonment of radical civil service reforms — which stripped tenure protections from public employees — across the American states, finding that these reforms often failed to deliver promised efficiency gains and generated political backlash. The findings offer cautionary lessons for reformers who view deregulating public employment as a path to better government.</p>
 :::
 
+</div>
+</details>
+
+<details class="year-group">
+<summary>2011</summary>
+<div class="year-group-content">
+
 ::: {.pub-entry}
 Jensen, Christian B., and Robert J. McGrath. 2011. "Making Rules About Rulemaking: A Comparison of Presidential and Parliamentary Systems." *Political Research Quarterly* 64(3): 656–667.
 
@@ -229,7 +312,19 @@ McGrath, Robert J. 2011. "Electoral Competition and the Frequency of Initiative 
 <p class="pub-summary">This study examines why citizens in some states use the ballot initiative process more frequently than others, finding that electoral competition between parties is a key driver — when elections are competitive and legislative outcomes uncertain, interest groups turn more readily to direct democracy as an alternative policymaking venue. The results connect the initiative process to broader patterns of partisan competition.</p>
 :::
 
-## Book Chapters
+</div>
+</details>
+
+</div>
+</details>
+
+<details class="pub-section">
+<summary>Book Chapters</summary>
+<div class="pub-section-content">
+
+<details class="year-group">
+<summary>2015</summary>
+<div class="year-group-content">
 
 ::: {.pub-entry}
 McGrath, Robert J., Jon C. Rogowski, and Josh M. Ryan. 2015. "The Power of Institutional Design: Governors, Vetoes, and Legislative Outcomes." In *The American Governor: Power, Constraint, and Leadership in the States*, ed. David P. Redlawsk. Palgrave MacMillan.
@@ -237,9 +332,17 @@ McGrath, Robert J., Jon C. Rogowski, and Josh M. Ryan. 2015. "The Power of Insti
 <p class="pub-summary">This chapter examines how the formal veto powers granted to governors by state constitutions shape legislative bargaining and outcomes, synthesizing evidence that institutional design — not just political skill or resources — fundamentally structures executive-legislative relations. The analysis contributes to broader debates about the role of rules and procedures in shaping political power.</p>
 :::
 
-## Working Papers and Works in Progress
+</div>
+</details>
 
-::: {.working-papers}
+</div>
+</details>
+
+<details class="pub-section">
+<summary>Working Papers and Works in Progress</summary>
+<div class="pub-section-content">
+
+<div class="working-papers">
 
 ::: {.pub-entry}
 McGrath, Robert J., and Josh M. Ryan. "The Value of State Legislative Committees." *Working paper.*
@@ -259,4 +362,7 @@ McGrath, Robert J. "Collaboration in Crisis: State Politics, Policy Coordination
 <p class="pub-summary">This book manuscript examines how American states coordinated — or failed to coordinate — their policy responses to the opioid epidemic, exploring the political and institutional conditions that enabled or blocked collaborative action across state governments. The project offers a window into the challenges of governing a crisis that does not respect state borders.</p>
 :::
 
-:::
+</div>
+
+</div>
+</details>
