@@ -44,6 +44,51 @@
 
 ---
 
+## Milestone: v1.1 — Polish & Data
+
+**Shipped:** 2026-03-23
+**Phases:** 4 | **Plans:** 6 | **Sessions:** 1
+
+### What Was Built
+- Hero subtitle redesigned (shortened + Director line separated in trestles header)
+- Palette contrast improved (darker text/links), gold h2 underlines, tighter Distill-inspired spacing
+- Collapsible publications by type and year (HTML5 details/summary, zero JS)
+- Timeline-style CV layout (CSS Grid, dates left, content right)
+- 3 new Dataverse deposits found and linked (total: 6 of 26 papers)
+- Search-to-collapsed-section MutationObserver fix
+- GitHub username updated rjm328 → robert-mcgrath
+
+### What Worked
+- Skipping research for a polish milestone — all tech decisions were straightforward CSS/HTML
+- Single-plan phases (6, 7) were fast to plan and execute
+- User checkpoints caught the Director line placement issue before it shipped
+- Dataverse API search found deposits that v1.0's web search missed
+
+### What Was Inefficient
+- Director line initially placed in body text instead of trestles subtitle header — required a fix round at checkpoint
+- publications.qmd static file problem persists — every data_url change requires editing both YAML and QMD
+- Search fix required two iterations (hash-based approach didn't work, MutationObserver did)
+- v1.0 ROADMAP.md showed Phase 7 as "Planned" even though Phase 3 was complete — state tracking still imperfect
+
+### Patterns Established
+- HTML5 details/summary for collapsible content — zero JS, native cross-browser
+- CSS Grid for timeline layouts (120px date + 1fr content)
+- MutationObserver for detecting Quarto search highlights in collapsed sections
+- Inline HTML in Quarto YAML subtitle field for multi-line header content
+
+### Key Lessons
+1. Visual checkpoints are essential for design work — automated checks can't catch "this looks wrong"
+2. The trestles template subtitle field accepts inline HTML — useful for structured header content
+3. Quarto search and collapsed details elements don't play well together — requires custom JS
+4. Dataverse API (`dataverse.harvard.edu/api/search`) is more reliable than web searches for finding deposits
+
+### Cost Observations
+- Model mix: ~20% opus (orchestration), ~80% sonnet (execution)
+- Sessions: 1 (continued from v1.0 session)
+- Notable: Skipping research saved significant time for a polish milestone
+
+---
+
 ## Cross-Milestone Trends
 
 ### Process Evolution
@@ -51,13 +96,17 @@
 | Milestone | Sessions | Phases | Key Change |
 |-----------|----------|--------|------------|
 | v1.0 | 1 | 4 | Initial process — DOI verification lesson established |
+| v1.1 | 1 | 4 | Skipped research for polish; visual checkpoints critical for design work |
 
 ### Cumulative Quality
 
 | Milestone | Tests | Coverage | Zero-Dep Additions |
 |-----------|-------|----------|-------------------|
 | v1.0 | N/A (static site) | 16/16 requirements | 0 (Quarto built-in) |
+| v1.1 | N/A (static site) | 10/10 requirements | 0 (HTML5 details/summary, CSS Grid) |
 
 ### Top Lessons (Verified Across Milestones)
 
 1. AI-generated identifiers (DOIs, URLs) must be verified against authoritative APIs before use
+2. Visual checkpoints are essential — automated checks catch structure but not aesthetics
+3. publications.qmd static file is a maintenance burden — both milestones hit sync issues between YAML and QMD
