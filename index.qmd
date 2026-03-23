@@ -1,6 +1,6 @@
 ---
 title: "Robert J. McGrath"
-subtitle: "Associate Professor, Schar School of Policy and Government, George Mason University"
+subtitle: "Associate Professor, Schar School of Policy and Government, George Mason University<br><span class='director-line'>Director of PhD Programs in Political Science &amp; Public Policy</span>"
 image: images/profile.jpg
 image-shape: rectangle
 about:
@@ -19,8 +19,6 @@ about:
       text: GitHub
       href: https://github.com/rjm328
 ---
-
-<div class="director-line">Director of PhD Programs in Political Science &amp; Public Policy</div>
 
 Robert J. McGrath earned his PhD in political science from the University of Iowa and holds a BA from Saint Peter's College. He was a Robert Wood Johnson Foundation Scholar in Health Policy Research at the University of Michigan from 2013 to 2015.
 

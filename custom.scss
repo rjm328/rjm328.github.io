@@ -106,18 +106,21 @@ body {
 
 /* Hero subtitle and Director line — Phase 5 HERO-01/HERO-02 */
 .quarto-about-trestles .subtitle {
-  font-size: 1.05rem;
-  line-height: 1.4;
-  margin-bottom: 0.25rem;
+  font-size: 0.88rem;
+  line-height: 1.45;
+  margin-bottom: 0.5rem;
 }
 
-.director-line {
+/* Director line is a span inside the subtitle — displayed as block */
+.quarto-about-trestles .subtitle .director-line {
+  display: block;
   font-family: "DM Sans", system-ui, sans-serif;
-  font-size: 0.95rem;
+  font-size: 0.88rem;
   color: #6B5E55;
-  margin-bottom: 1.25rem;
-  padding-bottom: 0.75rem;
-  border-bottom: 1px solid #EDE9E4;
+  margin-top: 0.2rem;
+  padding-top: 0.4rem;
+  padding-bottom: 0.4rem;
+  border-top: 1px solid #EDE9E4;
 }
 
 /* Gold accent extensions — Phase 5 DSGN-04 */
