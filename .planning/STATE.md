@@ -3,14 +3,14 @@ gsd_state_version: 1.0
 milestone: v1.1
 milestone_name: Polish & Data
 status: planning
-stopped_at: Completed 06-publications-navigation-01-PLAN.md
-last_updated: "2026-03-23T00:52:15.526Z"
+stopped_at: Completed 07-cv-timeline-layout-01-PLAN.md
+last_updated: "2026-03-23T01:51:25.700Z"
 last_activity: 2026-03-22 — v1.1 roadmap created; v1.0 shipped (phases 1-4, 8 plans)
 progress:
   total_phases: 4
-  completed_phases: 2
-  total_plans: 3
-  completed_plans: 3
+  completed_phases: 3
+  total_plans: 4
+  completed_plans: 4
   percent: 0
 ---
 
@@ -56,6 +56,7 @@ Progress: [░░░░░░░░░░] 0% (v1.1 phases 5-8 not yet started)
 | Phase 05-hero-design-polish P01 | 8 | 2 tasks | 2 files |
 | Phase 05-hero-design-polish P02 | 45 | 3 tasks | 1 files |
 | Phase 06-publications-navigation P01 | 3 | 2 tasks | 2 files |
+| Phase 07-cv-timeline-layout P01 | 25 | 3 tasks | 2 files |
 
 ## Accumulated Context
 
@@ -73,6 +74,8 @@ Recent decisions affecting current work:
 - [Phase 05-hero-design-polish]: Body text darkened to #2D2926 and links to #7A4F30 for WCAG AA contrast; gold h2 underlines extend accent system sitewide; Director line fix required after user rejected initial body placement
 - [Phase 06-publications-navigation]: Used HTML5 details/summary (no JavaScript) for collapsible publication sections — native browser behavior, zero dependencies
 - [Phase 06-publications-navigation]: Quarto fenced div syntax (::: {.pub-entry}) works correctly inside raw HTML details elements — no conversion to raw HTML divs needed
+- [Phase 07-cv-timeline-layout]: CSS Grid two-column CV layout: 120px date column + 1fr content; institution subheadings as full-width .cv-institution divs; Publications section kept outside timeline (prose summary only)
+- [Phase 07-cv-timeline-layout]: git worktree used for gh-pages deployment — quarto publish --no-prompt fails with 'Multiple previous publishes exist' (known issue since Phase 5)
 
 ### Pending Todos
 
@@ -84,6 +87,6 @@ None yet.
 
 ## Session Continuity
 
-Last session: 2026-03-23T00:51:06.085Z
-Stopped at: Completed 06-publications-navigation-01-PLAN.md
+Last session: 2026-03-23T01:51:25.696Z
+Stopped at: Completed 07-cv-timeline-layout-01-PLAN.md
 Resume file: None

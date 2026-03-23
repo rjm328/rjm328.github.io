@@ -20,8 +20,8 @@ Requirements for polish and data improvements. Each maps to roadmap phases.
 
 ### CV
 
-- [ ] **CVFX-01**: CV entries use timeline-style layout (dates on left, details on right)
-- [ ] **CVFX-02**: CV sections have clear visual hierarchy with proper spacing and separation
+- [x] **CVFX-01**: CV entries use timeline-style layout (dates on left, details on right)
+- [x] **CVFX-02**: CV sections have clear visual hierarchy with proper spacing and separation
 
 ### Design Polish
 
@@ -67,8 +67,8 @@ Which phases cover which requirements. Updated during roadmap creation.
 | PUBS-01 | Phase 6 | Complete |
 | PUBS-02 | Phase 6 | Complete |
 | PUBS-03 | Phase 6 | Complete |
-| CVFX-01 | Phase 7 | Pending |
-| CVFX-02 | Phase 7 | Pending |
+| CVFX-01 | Phase 7 | Complete |
+| CVFX-02 | Phase 7 | Complete |
 | DATA-01 | Phase 8 | Pending |
 | DATA-02 | Phase 8 | Pending |
 
