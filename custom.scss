@@ -4,10 +4,10 @@
 
 /* Warm neutrals palette — locked by user decision */
 $body-bg:       #FAF8F5;
-$body-color:    #3D3632;
-$link-color:    #8B5E3C;
+$body-color:    #2D2926;
+$link-color:    #7A4F30;
 $navbar-bg:     #FAF8F5;
-$navbar-fg:     #3D3632;
+$navbar-fg:     #2D2926;
 $navbar-hl:     #C4813D;
 $footer-bg:     #EDE9E4;
 
@@ -117,4 +117,16 @@ body {
   margin-bottom: 1.25rem;
   padding-bottom: 0.75rem;
   border-bottom: 1px solid #EDE9E4;
+}
+
+/* Gold accent extensions — Phase 5 DSGN-04 */
+h2 {
+  border-bottom: 2px solid #C4813D;
+  padding-bottom: 0.3rem;
+  margin-bottom: 0.75rem;
+}
+
+/* Navbar active link uses gold underline */
+.navbar .nav-link.active {
+  border-bottom: 2px solid #C4813D;
 }
