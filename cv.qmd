@@ -108,8 +108,6 @@ Committee: Frederick J. Boehmke (Chair), Douglas Dion, Christian B. Jensen, Raym
 
 ::: {.cv-section}
 
-22 peer-reviewed articles, 1 book chapter, and 3 working papers and works in progress.
-
 [View full publications list](/publications.html){.btn .btn-outline-secondary .btn-sm}
 
 ### Book Reviews
