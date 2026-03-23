@@ -161,3 +161,98 @@ hr {
   border-top: 1px solid #EDE9E4;
   margin: 1rem 0;               /* tighter than Bootstrap default ~2rem */
 }
+
+/* Publications collapsible navigation — Phase 6 PUBS-01/02/03 */
+
+/* Top-level section details elements */
+details.pub-section {
+  margin-bottom: 1.5rem;
+}
+
+details.pub-section > summary {
+  font-family: "DM Sans", system-ui, sans-serif;
+  font-size: 1.25rem;
+  font-weight: 600;
+  color: #2D2926;
+  cursor: pointer;
+  list-style: none;
+  border-bottom: 2px solid #C4813D;
+  padding-bottom: 0.3rem;
+  margin-bottom: 0.75rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+details.pub-section > summary::-webkit-details-marker {
+  display: none;
+}
+
+details.pub-section > summary::after {
+  content: "\25B6";
+  font-size: 0.75rem;
+  color: #C4813D;
+  margin-left: 0.5rem;
+  flex-shrink: 0;
+}
+
+details.pub-section[open] > summary::after {
+  content: "\25BC";
+}
+
+details.pub-section > summary:hover {
+  color: #7A4F30;
+}
+
+.pub-section-content {
+  padding-top: 0.5rem;
+}
+
+/* Year subgroup details elements */
+details.year-group {
+  margin-bottom: 0.75rem;
+}
+
+details.year-group > summary {
+  font-family: "DM Sans", system-ui, sans-serif;
+  font-size: 1.05rem;
+  font-weight: 600;
+  color: #6B5E55;
+  cursor: pointer;
+  list-style: none;
+  border-bottom: 1px solid #EDE9E4;
+  padding-bottom: 0.2rem;
+  margin-bottom: 0.5rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+details.year-group > summary::-webkit-details-marker {
+  display: none;
+}
+
+details.year-group > summary::after {
+  content: "\25B6";
+  font-size: 0.65rem;
+  color: #C4813D;
+  margin-left: 0.5rem;
+  flex-shrink: 0;
+}
+
+details.year-group[open] > summary::after {
+  content: "\25BC";
+}
+
+details.year-group > summary:hover {
+  color: #7A4F30;
+}
+
+.year-group-content {
+  padding-top: 0.25rem;
+}
+
+/* Ensure last pub-entry inside year-group has no border */
+.year-group .pub-entry:last-child {
+  border-bottom: none;
+}
