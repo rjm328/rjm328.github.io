@@ -102,3 +102,19 @@ body {
   color: #6B5E55;
   font-size: 0.9rem;
 }
+
+/* Hero subtitle and Director line — Phase 5 HERO-01/HERO-02 */
+.quarto-about-trestles .subtitle {
+  font-size: 1.05rem;
+  line-height: 1.4;
+  margin-bottom: 0.25rem;
+}
+
+.director-line {
+  font-family: "DM Sans", system-ui, sans-serif;
+  font-size: 0.95rem;
+  color: #6B5E55;
+  margin-bottom: 1.25rem;
+  padding-bottom: 0.75rem;
+  border-bottom: 1px solid #EDE9E4;
+}
