@@ -4,25 +4,53 @@ include-after-body:
   text: |
     <script>
     // Auto-expand collapsed details sections when navigating from search
+    // Quarto search highlights matches with <mark> elements, not URL hashes
     document.addEventListener('DOMContentLoaded', function() {
-      // Check for hash in URL (search results link with anchors)
-      function expandToTarget() {
+      function expandToMarks() {
+        var marks = document.querySelectorAll('mark.search-highlight, mark');
+        if (marks.length === 0) return;
+        marks.forEach(function(mark) {
+          var el = mark;
+          while (el) {
+            if (el.tagName === 'DETAILS' && !el.open) {
+              el.open = true;
+            }
+            el = el.parentElement;
+          }
+        });
+        marks[0].scrollIntoView({block: 'center'});
+      }
+      // Run immediately and also watch for Quarto's delayed highlight injection
+      expandToMarks();
+      var observer = new MutationObserver(function(mutations) {
+        for (var m of mutations) {
+          for (var node of m.addedNodes) {
+            if (node.tagName === 'MARK' || (node.querySelector && node.querySelector('mark'))) {
+              expandToMarks();
+              observer.disconnect();
+              return;
+            }
+          }
+        }
+      });
+      observer.observe(document.body, {childList: true, subtree: true});
+      // Also handle hash navigation
+      function expandToHash() {
         var hash = window.location.hash;
         if (!hash) return;
-        var target = document.querySelector(hash);
-        if (!target) return;
-        // Walk up the DOM and open any collapsed details ancestors
-        var el = target;
-        while (el) {
-          if (el.tagName === 'DETAILS' && !el.open) {
-            el.open = true;
+        try {
+          var target = document.querySelector(hash);
+          if (!target) return;
+          var el = target;
+          while (el) {
+            if (el.tagName === 'DETAILS' && !el.open) el.open = true;
+            el = el.parentElement;
           }
-          el = el.parentElement;
-        }
-        target.scrollIntoView();
+          target.scrollIntoView({block: 'center'});
+        } catch(e) {}
       }
-      expandToTarget();
-      window.addEventListener('hashchange', expandToTarget);
+      expandToHash();
+      window.addEventListener('hashchange', expandToHash);
     });
     </script>
 ---
