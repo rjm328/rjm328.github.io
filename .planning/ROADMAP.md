@@ -34,7 +34,10 @@ See MILESTONES.md for accomplishments.
   1. Landing page subtitle reads "Associate Professor, Schar School of Policy and Government, George Mason University" with the Director line visually separated below
   2. Name, title, and Director line have proper spacing — no crowding or misalignment
   3. Typography, spacing, and color are consistent and polished across About, Publications, CV, and Contact pages
-**Plans**: TBD
+**Plans:** 2 plans
+Plans:
+- [ ] 05-01-PLAN.md — Hero subtitle redesign and Director line separation
+- [ ] 05-02-PLAN.md — Sitewide typography, spacing, and color polish
 
 ### Phase 6: Publications Navigation
 **Goal**: Visitors can quickly find publications by type and year without being overwhelmed by a long list
@@ -73,8 +76,8 @@ See MILESTONES.md for accomplishments.
 
 | Phase | Milestone | Plans Complete | Status | Completed |
 |-------|-----------|----------------|--------|-----------|
-| 1-4. Foundation–Deployment | v1.0 | 8/8 | Complete | 2026-03-22 |
-| 5. Hero & Design Polish | v1.1 | 0/? | Not started | - |
+| 1-4. Foundation-Deployment | v1.0 | 8/8 | Complete | 2026-03-22 |
+| 5. Hero & Design Polish | v1.1 | 0/2 | Planning complete | - |
 | 6. Publications Navigation | v1.1 | 0/? | Not started | - |
 | 7. CV Timeline Layout | v1.1 | 0/? | Not started | - |
 | 8. Data Repository Links | v1.1 | 0/? | Not started | - |
