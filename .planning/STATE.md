@@ -4,7 +4,7 @@ milestone: v1.1
 milestone_name: Polish & Data
 status: planning
 stopped_at: Completed 06-publications-navigation-01-PLAN.md
-last_updated: "2026-03-23T00:51:06.089Z"
+last_updated: "2026-03-23T00:52:15.526Z"
 last_activity: 2026-03-22 — v1.1 roadmap created; v1.0 shipped (phases 1-4, 8 plans)
 progress:
   total_phases: 4
