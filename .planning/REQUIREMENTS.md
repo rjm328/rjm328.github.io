@@ -14,9 +14,9 @@ Requirements for polish and data improvements. Each maps to roadmap phases.
 
 ### Publications
 
-- [ ] **PUBS-01**: Publications sections (Articles, Chapters, Working Papers) are collapsible with expand/collapse toggles
-- [ ] **PUBS-02**: Within each section, entries are grouped by year with collapsible year subgroups
-- [ ] **PUBS-03**: 2025/2026/Forthcoming articles are expanded by default; all other sections collapsed
+- [x] **PUBS-01**: Publications sections (Articles, Chapters, Working Papers) are collapsible with expand/collapse toggles
+- [x] **PUBS-02**: Within each section, entries are grouped by year with collapsible year subgroups
+- [x] **PUBS-03**: 2025/2026/Forthcoming articles are expanded by default; all other sections collapsed
 
 ### CV
 
@@ -64,9 +64,9 @@ Which phases cover which requirements. Updated during roadmap creation.
 | HERO-01 | Phase 5 | Complete |
 | HERO-02 | Phase 5 | Complete |
 | DSGN-04 | Phase 5 | Complete |
-| PUBS-01 | Phase 6 | Pending |
-| PUBS-02 | Phase 6 | Pending |
-| PUBS-03 | Phase 6 | Pending |
+| PUBS-01 | Phase 6 | Complete |
+| PUBS-02 | Phase 6 | Complete |
+| PUBS-03 | Phase 6 | Complete |
 | CVFX-01 | Phase 7 | Pending |
 | CVFX-02 | Phase 7 | Pending |
 | DATA-01 | Phase 8 | Pending |

@@ -20,7 +20,7 @@ See MILESTONES.md for accomplishments.
 **Milestone Goal:** Refine the site's visual quality and expand data repository links
 
 - [x] **Phase 5: Hero & Design Polish** - Landing page hero redesign and sitewide typography/spacing refinements (completed 2026-03-23)
-- [ ] **Phase 6: Publications Navigation** - Collapsible publication sections grouped by type and year
+- [x] **Phase 6: Publications Navigation** - Collapsible publication sections grouped by type and year (completed 2026-03-23)
 - [ ] **Phase 7: CV Timeline Layout** - Timeline-style CV with clear visual hierarchy
 - [ ] **Phase 8: Data Repository Links** - Thorough data link search and [Data] button population
 
@@ -48,7 +48,7 @@ Plans:
   2. Within each section, entries are grouped by year with their own collapsible year subgroups
   3. The most recent year group (2025/2026/Forthcoming) is expanded by default when the page loads; all other year groups and sections are collapsed
   4. Collapsing and expanding sections works correctly across Chrome, Firefox, and Safari
-**Plans:** 1 plan
+**Plans:** 1/1 plans complete
 Plans:
 - [ ] 06-01-PLAN.md — Collapsible sections and year-grouped entries with details/summary
 
@@ -80,6 +80,6 @@ Plans:
 |-------|-----------|----------------|--------|-----------|
 | 1-4. Foundation-Deployment | v1.0 | 8/8 | Complete | 2026-03-22 |
 | 5. Hero & Design Polish | 2/2 | Complete   | 2026-03-23 | - |
-| 6. Publications Navigation | v1.1 | 0/1 | Planning complete | - |
+| 6. Publications Navigation | 1/1 | Complete   | 2026-03-23 | - |
 | 7. CV Timeline Layout | v1.1 | 0/? | Not started | - |
 | 8. Data Repository Links | v1.1 | 0/? | Not started | - |
