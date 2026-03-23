@@ -9,8 +9,8 @@ Requirements for polish and data improvements. Each maps to roadmap phases.
 
 ### Landing Page
 
-- [ ] **HERO-01**: Landing page displays shortened subtitle (Associate Professor, Schar School, GMU) with Director info separated below
-- [ ] **HERO-02**: Landing page hero layout is visually polished with proper spacing between name, title, and Director line
+- [x] **HERO-01**: Landing page displays shortened subtitle (Associate Professor, Schar School, GMU) with Director info separated below
+- [x] **HERO-02**: Landing page hero layout is visually polished with proper spacing between name, title, and Director line
 
 ### Publications
 
@@ -61,8 +61,8 @@ Which phases cover which requirements. Updated during roadmap creation.
 
 | Requirement | Phase | Status |
 |-------------|-------|--------|
-| HERO-01 | Phase 5 | Pending |
-| HERO-02 | Phase 5 | Pending |
+| HERO-01 | Phase 5 | Complete |
+| HERO-02 | Phase 5 | Complete |
 | DSGN-04 | Phase 5 | Pending |
 | PUBS-01 | Phase 6 | Pending |
 | PUBS-02 | Phase 6 | Pending |

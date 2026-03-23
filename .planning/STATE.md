@@ -3,14 +3,14 @@ gsd_state_version: 1.0
 milestone: v1.1
 milestone_name: Polish & Data
 status: planning
-stopped_at: Phase 5 context gathered
-last_updated: "2026-03-22T23:54:26.295Z"
+stopped_at: Completed 05-hero-design-polish-01-PLAN.md
+last_updated: "2026-03-23T00:05:43.757Z"
 last_activity: 2026-03-22 — v1.1 roadmap created; v1.0 shipped (phases 1-4, 8 plans)
 progress:
   total_phases: 4
   completed_phases: 0
-  total_plans: 0
-  completed_plans: 0
+  total_plans: 2
+  completed_plans: 1
   percent: 0
 ---
 
@@ -53,6 +53,7 @@ Progress: [░░░░░░░░░░] 0% (v1.1 phases 5-8 not yet started)
 - Trend: unknown
 
 *Updated after each plan completion*
+| Phase 05-hero-design-polish P01 | 8 | 2 tasks | 2 files |
 
 ## Accumulated Context
 
@@ -65,6 +66,8 @@ Recent decisions affecting current work:
 - [Phase 02]: publications.yml is single source of truth; publications.qmd is static and must be updated alongside it
 - [Phase 04]: 3 Harvard Dataverse deposits found (race-regs, rulemaking-speed, occupational-licensing); 19 other articles confirmed no public deposits at time of search — DATA-01/DATA-02 ask for a deeper/broader search
 - [Phase 04]: Custom domain (INFR-02) deferred to v1.2 — domain not yet purchased
+- [Phase 05-hero-design-polish]: Director line placed as first body element (not in YAML subtitle) because trestles has no secondary subtitle field
+- [Phase 05-hero-design-polish]: Subtitle font-size reduced to 1.05rem; director-line styled with DM Sans 0.95rem, #6B5E55, and border-bottom separator matching existing site palette
 
 ### Pending Todos
 
@@ -76,6 +79,6 @@ None yet.
 
 ## Session Continuity
 
-Last session: 2026-03-22T23:54:26.285Z
-Stopped at: Phase 5 context gathered
-Resume file: .planning/phases/05-hero-design-polish/05-CONTEXT.md
+Last session: 2026-03-23T00:05:43.750Z
+Stopped at: Completed 05-hero-design-polish-01-PLAN.md
+Resume file: None
