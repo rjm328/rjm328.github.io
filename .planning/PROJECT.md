@@ -55,7 +55,7 @@ Visitors can quickly find and navigate to the author's scholarly publications an
 
 ## Context
 
-- Site live at https://rjm328.github.io/ — all 4 pages functional
+- Site live at https://robert-mcgrath.github.io/ — all 4 pages functional
 - 1,008 lines of source code (Quarto YAML/QMD/SCSS)
 - Tech stack: Quarto 1.9.36 + GitHub Pages, cosmo base theme + custom.scss
 - 26 publications in publications.yml (single source of truth), 22 with DOIs, 3 with Dataverse [Data] buttons

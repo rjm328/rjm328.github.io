@@ -17,7 +17,7 @@ about:
       href: https://orcid.org/0000-0001-8963-3231
     - icon: github
       text: GitHub
-      href: https://github.com/rjm328
+      href: https://github.com/robert-mcgrath
 ---
 
 Robert J. McGrath earned his PhD in political science from the University of Iowa and holds a BA from Saint Peter's College. He was a Robert Wood Johnson Foundation Scholar in Health Policy Research at the University of Michigan from 2013 to 2015.
