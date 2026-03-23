@@ -600,6 +600,29 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 });
 </script>
 </div> <!-- /content -->
+<script>
+// Auto-expand collapsed details sections when navigating from search
+document.addEventListener('DOMContentLoaded', function() {
+  // Check for hash in URL (search results link with anchors)
+  function expandToTarget() {
+    var hash = window.location.hash;
+    if (!hash) return;
+    var target = document.querySelector(hash);
+    if (!target) return;
+    // Walk up the DOM and open any collapsed details ancestors
+    var el = target;
+    while (el) {
+      if (el.tagName === 'DETAILS' && !el.open) {
+        el.open = true;
+      }
+      el = el.parentElement;
+    }
+    target.scrollIntoView();
+  }
+  expandToTarget();
+  window.addEventListener('hashchange', expandToTarget);
+});
+</script>
 
 
 
