@@ -85,9 +85,9 @@ body {
 
 /* CV page section dividers */
 .cv-section {
-  margin-top: 1.5rem;
-  padding-top: 1rem;
-  border-top: 1px solid #EDE9E4;
+  margin-top: 2rem;
+  padding-top: 1.25rem;
+  border-top: 2px solid #EDE9E4;
 }
 
 .cv-entry {
@@ -102,6 +102,55 @@ body {
 .cv-entry-meta {
   color: #6B5E55;
   font-size: 0.9rem;
+}
+
+/* CV timeline layout — Phase 7 CVFX-01 */
+.cv-timeline {
+  display: grid;
+  grid-template-columns: 120px 1fr;
+  gap: 0 1.25rem;
+  margin-bottom: 0.75rem;
+  align-items: baseline;
+}
+
+.cv-timeline-date {
+  font-family: "DM Sans", system-ui, sans-serif;
+  font-size: 0.85rem;
+  color: #6B5E55;
+  white-space: nowrap;
+  padding-top: 0.15rem;
+}
+
+.cv-timeline-content {
+  /* Inherits body font (Source Serif 4) */
+}
+
+.cv-timeline-content strong {
+  font-family: "DM Sans", system-ui, sans-serif;
+}
+
+/* Institution subheading spans full width above its entries */
+.cv-institution {
+  font-weight: 600;
+  font-family: "DM Sans", system-ui, sans-serif;
+  margin-bottom: 0.5rem;
+  margin-top: 0.75rem;
+}
+
+.cv-institution:first-child {
+  margin-top: 0;
+}
+
+/* Responsive: stack on mobile */
+@media (max-width: 576px) {
+  .cv-timeline {
+    grid-template-columns: 1fr;
+    gap: 0;
+  }
+
+  .cv-timeline-date {
+    margin-bottom: 0.15rem;
+  }
 }
 
 /* Hero subtitle and Director line — Phase 5 HERO-01/HERO-02 */
